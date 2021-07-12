@@ -15,3 +15,7 @@ Options:
                ce（命令注入）、codeinject（代码注入）、info（信息泄露）、weakpasswd（弱口令与明文传输）、uploa
                d（文件上传）、XXE（XML实体注入）
 ```
+
+
+## Tips
+部分攻击payload较少，会循环发送，建议攻击时间限制在30s内。

